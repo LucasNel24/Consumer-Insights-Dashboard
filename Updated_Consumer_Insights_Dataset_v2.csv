@@ -1,0 +1,1729 @@
+Month,Region,Channel,Product,Demographic,Units Sold,Return Rate,Avg Satisfaction,Social Engagement,Social Engagement Source
+Jan 2023,Northeast,In-Store,Fresh Foam X,Gen Z,202,0.12,4.0,,
+Jan 2023,Northeast,In-Store,Fresh Foam X,Millennial,171,0.09,4.2,,
+Jan 2023,Northeast,In-Store,Fresh Foam X,Gen X,314,0.23,2.9,,
+Jan 2023,Northeast,In-Store,Fresh Foam X,Boomer,249,0.15,3.5,,
+Jan 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,393,0.22,3.3,,
+Jan 2023,Northeast,In-Store,FuelCell Rebel,Millennial,352,0.06,4.2,,
+Jan 2023,Northeast,In-Store,FuelCell Rebel,Gen X,158,0.12,3.8,,
+Jan 2023,Northeast,In-Store,FuelCell Rebel,Boomer,287,0.11,3.3,,
+Jan 2023,Northeast,In-Store,880v13,Gen Z,274,0.08,4.6,,
+Jan 2023,Northeast,In-Store,880v13,Millennial,343,0.12,3.8,,
+Jan 2023,Northeast,In-Store,880v13,Gen X,234,0.12,4.1,,
+Jan 2023,Northeast,In-Store,880v13,Boomer,152,0.11,3.7,,
+Jan 2023,Northeast,Online,Fresh Foam X,Gen Z,363,0.19,2.7,,
+Jan 2023,Northeast,Online,Fresh Foam X,Millennial,101,0.08,4.1,,
+Jan 2023,Northeast,Online,Fresh Foam X,Gen X,359,0.16,3.7,,
+Jan 2023,Northeast,Online,Fresh Foam X,Boomer,370,0.14,3.5,,
+Jan 2023,Northeast,Online,FuelCell Rebel,Gen Z,307,0.16,3.9,,
+Jan 2023,Northeast,Online,FuelCell Rebel,Millennial,379,0.08,3.9,,
+Jan 2023,Northeast,Online,FuelCell Rebel,Gen X,140,0.11,3.7,,
+Jan 2023,Northeast,Online,FuelCell Rebel,Boomer,108,0.12,4.0,,
+Jan 2023,Northeast,Online,880v13,Gen Z,162,0.18,3.5,,
+Jan 2023,Northeast,Online,880v13,Millennial,262,0.17,3.7,,
+Jan 2023,Northeast,Online,880v13,Gen X,330,0.18,3.3,,
+Jan 2023,Northeast,Online,880v13,Boomer,300,0.07,4.6,,
+Jan 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,147,0.22,2.5,6425.0,Instagram
+Jan 2023,Northeast,Social Referral,Fresh Foam X,Millennial,134,0.24,2.5,4886.0,TikTok
+Jan 2023,Northeast,Social Referral,Fresh Foam X,Gen X,356,0.1,4.2,4077.0,Twitter
+Jan 2023,Northeast,Social Referral,Fresh Foam X,Boomer,278,0.17,3.3,4551.0,Instagram
+Jan 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,195,0.11,4.0,6309.0,Instagram
+Jan 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,112,0.26,2.5,4359.0,Instagram
+Jan 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,165,0.08,4.5,4842.0,Instagram
+Jan 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,385,0.1,3.9,6126.0,Instagram
+Jan 2023,Northeast,Social Referral,880v13,Gen Z,330,0.14,3.7,2975.0,Instagram
+Jan 2023,Northeast,Social Referral,880v13,Millennial,236,0.1,4.6,4769.0,Instagram
+Jan 2023,Northeast,Social Referral,880v13,Gen X,251,0.14,3.7,7829.0,Instagram
+Jan 2023,Northeast,Social Referral,880v13,Boomer,151,0.16,3.6,3418.0,TikTok
+Jan 2023,South,In-Store,Fresh Foam X,Gen Z,200,0.15,4.2,,
+Jan 2023,South,In-Store,Fresh Foam X,Millennial,153,0.15,3.4,,
+Jan 2023,South,In-Store,Fresh Foam X,Gen X,225,0.15,3.1,,
+Jan 2023,South,In-Store,Fresh Foam X,Boomer,259,0.26,2.8,,
+Jan 2023,South,In-Store,FuelCell Rebel,Gen Z,302,0.08,4.0,,
+Jan 2023,South,In-Store,FuelCell Rebel,Millennial,393,0.22,2.5,,
+Jan 2023,South,In-Store,FuelCell Rebel,Gen X,297,0.21,2.8,,
+Jan 2023,South,In-Store,FuelCell Rebel,Boomer,243,0.13,4.0,,
+Jan 2023,South,In-Store,880v13,Gen Z,358,0.24,2.9,,
+Jan 2023,South,In-Store,880v13,Millennial,246,0.11,3.8,,
+Jan 2023,South,In-Store,880v13,Gen X,227,0.21,2.9,,
+Jan 2023,South,In-Store,880v13,Boomer,366,0.11,3.8,,
+Jan 2023,South,Online,Fresh Foam X,Gen Z,250,0.24,2.7,,
+Jan 2023,South,Online,Fresh Foam X,Millennial,362,0.2,3.2,,
+Jan 2023,South,Online,Fresh Foam X,Gen X,159,0.15,3.7,,
+Jan 2023,South,Online,Fresh Foam X,Boomer,259,0.08,4.6,,
+Jan 2023,South,Online,FuelCell Rebel,Gen Z,198,0.19,3.2,,
+Jan 2023,South,Online,FuelCell Rebel,Millennial,251,0.2,2.9,,
+Jan 2023,South,Online,FuelCell Rebel,Gen X,215,0.16,3.7,,
+Jan 2023,South,Online,FuelCell Rebel,Boomer,326,0.18,3.2,,
+Jan 2023,South,Online,880v13,Gen Z,252,0.24,2.7,,
+Jan 2023,South,Online,880v13,Millennial,307,0.15,3.4,,
+Jan 2023,South,Online,880v13,Gen X,234,0.1,4.3,,
+Jan 2023,South,Online,880v13,Boomer,275,0.14,3.4,,
+Jan 2023,South,Social Referral,Fresh Foam X,Gen Z,121,0.19,3.0,6814.0,Twitter
+Jan 2023,South,Social Referral,Fresh Foam X,Millennial,383,0.18,3.5,5591.0,Instagram
+Jan 2023,South,Social Referral,Fresh Foam X,Gen X,246,0.22,2.9,2325.0,TikTok
+Jan 2023,South,Social Referral,Fresh Foam X,Boomer,332,0.14,3.6,5512.0,Twitter
+Jan 2023,South,Social Referral,FuelCell Rebel,Gen Z,194,0.11,3.4,4330.0,Instagram
+Jan 2023,South,Social Referral,FuelCell Rebel,Millennial,380,0.19,3.4,4496.0,Facebook
+Jan 2023,South,Social Referral,FuelCell Rebel,Gen X,273,0.16,3.2,6586.0,TikTok
+Jan 2023,South,Social Referral,FuelCell Rebel,Boomer,398,0.15,3.6,7668.0,Instagram
+Jan 2023,South,Social Referral,880v13,Gen Z,125,0.17,3.4,5035.0,Twitter
+Jan 2023,South,Social Referral,880v13,Millennial,272,0.19,2.9,4808.0,TikTok
+Jan 2023,South,Social Referral,880v13,Gen X,242,0.11,3.8,4271.0,Twitter
+Jan 2023,South,Social Referral,880v13,Boomer,162,0.15,3.4,5893.0,Instagram
+Jan 2023,Midwest,In-Store,Fresh Foam X,Gen Z,370,0.11,3.8,,
+Jan 2023,Midwest,In-Store,Fresh Foam X,Millennial,363,0.11,4.1,,
+Jan 2023,Midwest,In-Store,Fresh Foam X,Gen X,104,0.21,2.9,,
+Jan 2023,Midwest,In-Store,Fresh Foam X,Boomer,146,0.11,4.0,,
+Jan 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,243,0.15,3.6,,
+Jan 2023,Midwest,In-Store,FuelCell Rebel,Millennial,257,0.14,3.5,,
+Jan 2023,Midwest,In-Store,FuelCell Rebel,Gen X,374,0.11,3.9,,
+Jan 2023,Midwest,In-Store,FuelCell Rebel,Boomer,328,0.24,2.5,,
+Jan 2023,Midwest,In-Store,880v13,Gen Z,228,0.13,3.6,,
+Jan 2023,Midwest,In-Store,880v13,Millennial,389,0.13,3.6,,
+Jan 2023,Midwest,In-Store,880v13,Gen X,188,0.09,4.4,,
+Jan 2023,Midwest,In-Store,880v13,Boomer,371,0.26,2.5,,
+Jan 2023,Midwest,Online,Fresh Foam X,Gen Z,168,0.08,4.8,,
+Jan 2023,Midwest,Online,Fresh Foam X,Millennial,175,0.09,4.2,,
+Jan 2023,Midwest,Online,Fresh Foam X,Gen X,185,0.17,3.5,,
+Jan 2023,Midwest,Online,Fresh Foam X,Boomer,303,0.12,4.1,,
+Jan 2023,Midwest,Online,FuelCell Rebel,Gen Z,353,0.05,4.1,,
+Jan 2023,Midwest,Online,FuelCell Rebel,Millennial,109,0.15,3.7,,
+Jan 2023,Midwest,Online,FuelCell Rebel,Gen X,103,0.18,3.2,,
+Jan 2023,Midwest,Online,FuelCell Rebel,Boomer,357,0.15,3.4,,
+Jan 2023,Midwest,Online,880v13,Gen Z,251,0.19,3.6,,
+Jan 2023,Midwest,Online,880v13,Millennial,132,0.26,2.5,,
+Jan 2023,Midwest,Online,880v13,Gen X,200,0.21,3.0,,
+Jan 2023,Midwest,Online,880v13,Boomer,267,0.13,3.8,,
+Jan 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,363,0.23,2.5,3142.0,Twitter
+Jan 2023,Midwest,Social Referral,Fresh Foam X,Millennial,213,0.11,4.2,5460.0,TikTok
+Jan 2023,Midwest,Social Referral,Fresh Foam X,Gen X,376,0.15,3.6,7517.0,Twitter
+Jan 2023,Midwest,Social Referral,Fresh Foam X,Boomer,198,0.06,3.9,3169.0,TikTok
+Jan 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,251,0.16,3.7,6146.0,TikTok
+Jan 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,385,0.09,4.1,6396.0,TikTok
+Jan 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,286,0.17,3.3,4699.0,Twitter
+Jan 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,243,0.25,2.5,4329.0,Instagram
+Jan 2023,Midwest,Social Referral,880v13,Gen Z,152,0.18,3.4,4981.0,Instagram
+Jan 2023,Midwest,Social Referral,880v13,Millennial,322,0.11,4.4,5606.0,Facebook
+Jan 2023,Midwest,Social Referral,880v13,Gen X,108,0.18,3.6,4350.0,TikTok
+Jan 2023,Midwest,Social Referral,880v13,Boomer,221,0.16,3.4,3235.0,Instagram
+Jan 2023,West,In-Store,Fresh Foam X,Gen Z,235,0.08,3.8,,
+Jan 2023,West,In-Store,Fresh Foam X,Millennial,244,0.12,4.2,,
+Jan 2023,West,In-Store,Fresh Foam X,Gen X,374,0.17,3.7,,
+Jan 2023,West,In-Store,Fresh Foam X,Boomer,190,0.11,3.5,,
+Jan 2023,West,In-Store,FuelCell Rebel,Gen Z,225,0.13,3.7,,
+Jan 2023,West,In-Store,FuelCell Rebel,Millennial,319,0.23,2.8,,
+Jan 2023,West,In-Store,FuelCell Rebel,Gen X,100,0.09,4.3,,
+Jan 2023,West,In-Store,FuelCell Rebel,Boomer,290,0.11,3.9,,
+Jan 2023,West,In-Store,880v13,Gen Z,216,0.15,3.8,,
+Jan 2023,West,In-Store,880v13,Millennial,302,0.14,3.7,,
+Jan 2023,West,In-Store,880v13,Gen X,246,0.15,3.6,,
+Jan 2023,West,In-Store,880v13,Boomer,332,0.11,3.6,,
+Jan 2023,West,Online,Fresh Foam X,Gen Z,100,0.21,3.4,,
+Jan 2023,West,Online,Fresh Foam X,Millennial,243,0.17,3.4,,
+Jan 2023,West,Online,Fresh Foam X,Gen X,323,0.14,3.4,,
+Jan 2023,West,Online,Fresh Foam X,Boomer,255,0.1,3.9,,
+Jan 2023,West,Online,FuelCell Rebel,Gen Z,263,0.05,4.3,,
+Jan 2023,West,Online,FuelCell Rebel,Millennial,277,0.11,3.5,,
+Jan 2023,West,Online,FuelCell Rebel,Gen X,327,0.05,4.6,,
+Jan 2023,West,Online,FuelCell Rebel,Boomer,311,0.07,4.5,,
+Jan 2023,West,Online,880v13,Gen Z,145,0.23,2.5,,
+Jan 2023,West,Online,880v13,Millennial,109,0.21,2.8,,
+Jan 2023,West,Online,880v13,Gen X,323,0.12,4.2,,
+Jan 2023,West,Online,880v13,Boomer,382,0.12,3.8,,
+Jan 2023,West,Social Referral,Fresh Foam X,Gen Z,204,0.07,4.1,5007.0,TikTok
+Jan 2023,West,Social Referral,Fresh Foam X,Millennial,264,0.15,3.3,7033.0,Instagram
+Jan 2023,West,Social Referral,Fresh Foam X,Gen X,100,0.16,3.6,6067.0,TikTok
+Jan 2023,West,Social Referral,Fresh Foam X,Boomer,194,0.09,4.2,3877.0,Twitter
+Jan 2023,West,Social Referral,FuelCell Rebel,Gen Z,217,0.12,4.1,4155.0,Twitter
+Jan 2023,West,Social Referral,FuelCell Rebel,Millennial,328,0.28,2.6,6316.0,Instagram
+Jan 2023,West,Social Referral,FuelCell Rebel,Gen X,291,0.06,4.8,6329.0,Instagram
+Jan 2023,West,Social Referral,FuelCell Rebel,Boomer,265,0.14,3.9,4844.0,Instagram
+Jan 2023,West,Social Referral,880v13,Gen Z,205,0.06,4.4,5576.0,Twitter
+Jan 2023,West,Social Referral,880v13,Millennial,304,0.15,3.6,2942.0,Instagram
+Jan 2023,West,Social Referral,880v13,Gen X,210,0.09,4.2,6121.0,Twitter
+Jan 2023,West,Social Referral,880v13,Boomer,192,0.14,3.6,5529.0,Instagram
+Feb 2023,Northeast,In-Store,Fresh Foam X,Gen Z,376,0.12,3.6,,
+Feb 2023,Northeast,In-Store,Fresh Foam X,Millennial,121,0.08,4.1,,
+Feb 2023,Northeast,In-Store,Fresh Foam X,Gen X,133,0.13,3.5,,
+Feb 2023,Northeast,In-Store,Fresh Foam X,Boomer,172,0.15,3.2,,
+Feb 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,313,0.19,2.9,,
+Feb 2023,Northeast,In-Store,FuelCell Rebel,Millennial,212,0.16,3.4,,
+Feb 2023,Northeast,In-Store,FuelCell Rebel,Gen X,226,0.15,3.5,,
+Feb 2023,Northeast,In-Store,FuelCell Rebel,Boomer,127,0.12,3.1,,
+Feb 2023,Northeast,In-Store,880v13,Gen Z,253,0.18,3.3,,
+Feb 2023,Northeast,In-Store,880v13,Millennial,337,0.13,4.0,,
+Feb 2023,Northeast,In-Store,880v13,Gen X,114,0.16,3.3,,
+Feb 2023,Northeast,In-Store,880v13,Boomer,127,0.12,3.5,,
+Feb 2023,Northeast,Online,Fresh Foam X,Gen Z,399,0.11,3.5,,
+Feb 2023,Northeast,Online,Fresh Foam X,Millennial,124,0.2,3.2,,
+Feb 2023,Northeast,Online,Fresh Foam X,Gen X,208,0.28,2.5,,
+Feb 2023,Northeast,Online,Fresh Foam X,Boomer,133,0.25,2.9,,
+Feb 2023,Northeast,Online,FuelCell Rebel,Gen Z,335,0.13,3.5,,
+Feb 2023,Northeast,Online,FuelCell Rebel,Millennial,105,0.16,3.7,,
+Feb 2023,Northeast,Online,FuelCell Rebel,Gen X,328,0.12,3.4,,
+Feb 2023,Northeast,Online,FuelCell Rebel,Boomer,211,0.13,3.6,,
+Feb 2023,Northeast,Online,880v13,Gen Z,194,0.16,3.7,,
+Feb 2023,Northeast,Online,880v13,Millennial,174,0.16,3.5,,
+Feb 2023,Northeast,Online,880v13,Gen X,193,0.18,2.9,,
+Feb 2023,Northeast,Online,880v13,Boomer,293,0.25,3.0,,
+Feb 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,272,0.12,4.0,3855.0,Twitter
+Feb 2023,Northeast,Social Referral,Fresh Foam X,Millennial,212,0.06,5.0,5398.0,TikTok
+Feb 2023,Northeast,Social Referral,Fresh Foam X,Gen X,137,0.09,4.2,9175.0,Instagram
+Feb 2023,Northeast,Social Referral,Fresh Foam X,Boomer,277,0.07,4.9,2082.0,Twitter
+Feb 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,112,0.12,3.9,4892.0,TikTok
+Feb 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,193,0.1,3.8,7257.0,Facebook
+Feb 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,236,0.12,3.4,5275.0,Instagram
+Feb 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,366,0.17,3.1,5882.0,Instagram
+Feb 2023,Northeast,Social Referral,880v13,Gen Z,312,0.12,3.6,6113.0,Instagram
+Feb 2023,Northeast,Social Referral,880v13,Millennial,141,0.16,3.8,4387.0,Twitter
+Feb 2023,Northeast,Social Referral,880v13,Gen X,113,0.16,3.6,1510.0,Twitter
+Feb 2023,Northeast,Social Referral,880v13,Boomer,244,0.23,2.6,6234.0,Twitter
+Feb 2023,South,In-Store,Fresh Foam X,Gen Z,203,0.16,2.9,,
+Feb 2023,South,In-Store,Fresh Foam X,Millennial,297,0.16,3.6,,
+Feb 2023,South,In-Store,Fresh Foam X,Gen X,141,0.17,3.2,,
+Feb 2023,South,In-Store,Fresh Foam X,Boomer,256,0.24,2.6,,
+Feb 2023,South,In-Store,FuelCell Rebel,Gen Z,256,0.13,3.4,,
+Feb 2023,South,In-Store,FuelCell Rebel,Millennial,388,0.15,3.4,,
+Feb 2023,South,In-Store,FuelCell Rebel,Gen X,109,0.23,2.7,,
+Feb 2023,South,In-Store,FuelCell Rebel,Boomer,217,0.21,2.8,,
+Feb 2023,South,In-Store,880v13,Gen Z,360,0.05,4.4,,
+Feb 2023,South,In-Store,880v13,Millennial,272,0.19,3.5,,
+Feb 2023,South,In-Store,880v13,Gen X,342,0.24,2.8,,
+Feb 2023,South,In-Store,880v13,Boomer,382,0.1,3.8,,
+Feb 2023,South,Online,Fresh Foam X,Gen Z,137,0.13,3.3,,
+Feb 2023,South,Online,Fresh Foam X,Millennial,317,0.16,4.2,,
+Feb 2023,South,Online,Fresh Foam X,Gen X,210,0.18,3.7,,
+Feb 2023,South,Online,Fresh Foam X,Boomer,232,0.16,3.5,,
+Feb 2023,South,Online,FuelCell Rebel,Gen Z,205,0.12,4.2,,
+Feb 2023,South,Online,FuelCell Rebel,Millennial,150,0.16,3.4,,
+Feb 2023,South,Online,FuelCell Rebel,Gen X,313,0.12,3.7,,
+Feb 2023,South,Online,FuelCell Rebel,Boomer,281,0.13,4.0,,
+Feb 2023,South,Online,880v13,Gen Z,154,0.18,2.8,,
+Feb 2023,South,Online,880v13,Millennial,236,0.18,3.0,,
+Feb 2023,South,Online,880v13,Gen X,253,0.1,3.5,,
+Feb 2023,South,Online,880v13,Boomer,124,0.07,3.5,,
+Feb 2023,South,Social Referral,Fresh Foam X,Gen Z,116,0.13,3.7,4713.0,Twitter
+Feb 2023,South,Social Referral,Fresh Foam X,Millennial,279,0.17,3.5,4764.0,Instagram
+Feb 2023,South,Social Referral,Fresh Foam X,Gen X,162,0.1,3.8,5117.0,Facebook
+Feb 2023,South,Social Referral,Fresh Foam X,Boomer,276,0.08,4.5,5263.0,Twitter
+Feb 2023,South,Social Referral,FuelCell Rebel,Gen Z,148,0.1,3.7,2955.0,TikTok
+Feb 2023,South,Social Referral,FuelCell Rebel,Millennial,131,0.05,5.0,4139.0,Instagram
+Feb 2023,South,Social Referral,FuelCell Rebel,Gen X,243,0.11,3.9,4617.0,Twitter
+Feb 2023,South,Social Referral,FuelCell Rebel,Boomer,212,0.23,3.1,1889.0,Instagram
+Feb 2023,South,Social Referral,880v13,Gen Z,363,0.08,4.0,3334.0,Instagram
+Feb 2023,South,Social Referral,880v13,Millennial,387,0.24,2.9,6907.0,Instagram
+Feb 2023,South,Social Referral,880v13,Gen X,346,0.11,3.7,8857.0,Instagram
+Feb 2023,South,Social Referral,880v13,Boomer,328,0.16,3.6,3420.0,Instagram
+Feb 2023,Midwest,In-Store,Fresh Foam X,Gen Z,390,0.19,2.8,,
+Feb 2023,Midwest,In-Store,Fresh Foam X,Millennial,219,0.07,4.0,,
+Feb 2023,Midwest,In-Store,Fresh Foam X,Gen X,106,0.22,3.0,,
+Feb 2023,Midwest,In-Store,Fresh Foam X,Boomer,184,0.07,4.8,,
+Feb 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,101,0.16,3.6,,
+Feb 2023,Midwest,In-Store,FuelCell Rebel,Millennial,110,0.11,3.5,,
+Feb 2023,Midwest,In-Store,FuelCell Rebel,Gen X,218,0.19,2.7,,
+Feb 2023,Midwest,In-Store,FuelCell Rebel,Boomer,355,0.05,5.0,,
+Feb 2023,Midwest,In-Store,880v13,Gen Z,379,0.16,3.1,,
+Feb 2023,Midwest,In-Store,880v13,Millennial,158,0.16,3.4,,
+Feb 2023,Midwest,In-Store,880v13,Gen X,308,0.26,2.5,,
+Feb 2023,Midwest,In-Store,880v13,Boomer,108,0.26,2.6,,
+Feb 2023,Midwest,Online,Fresh Foam X,Gen Z,300,0.16,3.3,,
+Feb 2023,Midwest,Online,Fresh Foam X,Millennial,103,0.21,3.2,,
+Feb 2023,Midwest,Online,Fresh Foam X,Gen X,245,0.22,2.8,,
+Feb 2023,Midwest,Online,Fresh Foam X,Boomer,140,0.17,2.8,,
+Feb 2023,Midwest,Online,FuelCell Rebel,Gen Z,252,0.24,2.6,,
+Feb 2023,Midwest,Online,FuelCell Rebel,Millennial,216,0.23,3.2,,
+Feb 2023,Midwest,Online,FuelCell Rebel,Gen X,272,0.13,4.0,,
+Feb 2023,Midwest,Online,FuelCell Rebel,Boomer,289,0.12,3.8,,
+Feb 2023,Midwest,Online,880v13,Gen Z,292,0.16,3.2,,
+Feb 2023,Midwest,Online,880v13,Millennial,381,0.19,3.1,,
+Feb 2023,Midwest,Online,880v13,Gen X,286,0.18,2.7,,
+Feb 2023,Midwest,Online,880v13,Boomer,197,0.18,3.2,,
+Feb 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,168,0.06,4.4,3152.0,TikTok
+Feb 2023,Midwest,Social Referral,Fresh Foam X,Millennial,300,0.16,3.3,5363.0,Instagram
+Feb 2023,Midwest,Social Referral,Fresh Foam X,Gen X,116,0.23,2.5,3582.0,Instagram
+Feb 2023,Midwest,Social Referral,Fresh Foam X,Boomer,328,0.27,2.6,4108.0,Facebook
+Feb 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,116,0.15,3.7,5266.0,TikTok
+Feb 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,363,0.08,4.6,6033.0,TikTok
+Feb 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,297,0.22,3.1,5217.0,Instagram
+Feb 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,115,0.13,3.9,5200.0,Instagram
+Feb 2023,Midwest,Social Referral,880v13,Gen Z,216,0.11,4.1,4705.0,TikTok
+Feb 2023,Midwest,Social Referral,880v13,Millennial,322,0.1,4.0,5044.0,Instagram
+Feb 2023,Midwest,Social Referral,880v13,Gen X,202,0.15,3.4,4348.0,Instagram
+Feb 2023,Midwest,Social Referral,880v13,Boomer,392,0.13,2.9,6947.0,Twitter
+Feb 2023,West,In-Store,Fresh Foam X,Gen Z,138,0.17,2.7,,
+Feb 2023,West,In-Store,Fresh Foam X,Millennial,309,0.05,4.7,,
+Feb 2023,West,In-Store,Fresh Foam X,Gen X,207,0.15,3.8,,
+Feb 2023,West,In-Store,Fresh Foam X,Boomer,195,0.21,2.7,,
+Feb 2023,West,In-Store,FuelCell Rebel,Gen Z,344,0.28,2.5,,
+Feb 2023,West,In-Store,FuelCell Rebel,Millennial,335,0.07,3.8,,
+Feb 2023,West,In-Store,FuelCell Rebel,Gen X,164,0.13,3.6,,
+Feb 2023,West,In-Store,FuelCell Rebel,Boomer,241,0.19,3.0,,
+Feb 2023,West,In-Store,880v13,Gen Z,245,0.05,4.1,,
+Feb 2023,West,In-Store,880v13,Millennial,239,0.18,2.7,,
+Feb 2023,West,In-Store,880v13,Gen X,394,0.27,2.5,,
+Feb 2023,West,In-Store,880v13,Boomer,252,0.15,3.5,,
+Feb 2023,West,Online,Fresh Foam X,Gen Z,171,0.16,3.5,,
+Feb 2023,West,Online,Fresh Foam X,Millennial,342,0.07,4.3,,
+Feb 2023,West,Online,Fresh Foam X,Gen X,325,0.13,3.7,,
+Feb 2023,West,Online,Fresh Foam X,Boomer,358,0.17,3.5,,
+Feb 2023,West,Online,FuelCell Rebel,Gen Z,153,0.13,3.3,,
+Feb 2023,West,Online,FuelCell Rebel,Millennial,277,0.16,3.4,,
+Feb 2023,West,Online,FuelCell Rebel,Gen X,102,0.12,4.0,,
+Feb 2023,West,Online,FuelCell Rebel,Boomer,219,0.05,4.2,,
+Feb 2023,West,Online,880v13,Gen Z,222,0.18,3.5,,
+Feb 2023,West,Online,880v13,Millennial,360,0.1,4.3,,
+Feb 2023,West,Online,880v13,Gen X,223,0.08,4.0,,
+Feb 2023,West,Online,880v13,Boomer,275,0.11,3.9,,
+Feb 2023,West,Social Referral,Fresh Foam X,Gen Z,275,0.12,3.9,4975.0,Twitter
+Feb 2023,West,Social Referral,Fresh Foam X,Millennial,214,0.21,2.8,6566.0,TikTok
+Feb 2023,West,Social Referral,Fresh Foam X,Gen X,336,0.16,3.9,4432.0,Instagram
+Feb 2023,West,Social Referral,Fresh Foam X,Boomer,268,0.18,2.8,3886.0,Facebook
+Feb 2023,West,Social Referral,FuelCell Rebel,Gen Z,290,0.1,4.2,6560.0,Instagram
+Feb 2023,West,Social Referral,FuelCell Rebel,Millennial,259,0.15,3.9,3774.0,Instagram
+Feb 2023,West,Social Referral,FuelCell Rebel,Gen X,357,0.15,3.9,5286.0,TikTok
+Feb 2023,West,Social Referral,FuelCell Rebel,Boomer,322,0.15,3.4,5284.0,Instagram
+Feb 2023,West,Social Referral,880v13,Gen Z,173,0.21,2.8,3221.0,TikTok
+Feb 2023,West,Social Referral,880v13,Millennial,377,0.13,3.8,5612.0,Instagram
+Feb 2023,West,Social Referral,880v13,Gen X,318,0.17,3.1,4649.0,Instagram
+Feb 2023,West,Social Referral,880v13,Boomer,219,0.24,2.5,5565.0,TikTok
+Mar 2023,Northeast,In-Store,Fresh Foam X,Gen Z,106,0.21,2.8,,
+Mar 2023,Northeast,In-Store,Fresh Foam X,Millennial,157,0.18,3.2,,
+Mar 2023,Northeast,In-Store,Fresh Foam X,Gen X,198,0.09,4.0,,
+Mar 2023,Northeast,In-Store,Fresh Foam X,Boomer,384,0.1,4.2,,
+Mar 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,229,0.11,4.1,,
+Mar 2023,Northeast,In-Store,FuelCell Rebel,Millennial,126,0.06,4.2,,
+Mar 2023,Northeast,In-Store,FuelCell Rebel,Gen X,157,0.14,3.7,,
+Mar 2023,Northeast,In-Store,FuelCell Rebel,Boomer,262,0.15,3.4,,
+Mar 2023,Northeast,In-Store,880v13,Gen Z,111,0.09,4.9,,
+Mar 2023,Northeast,In-Store,880v13,Millennial,126,0.17,3.4,,
+Mar 2023,Northeast,In-Store,880v13,Gen X,178,0.23,2.5,,
+Mar 2023,Northeast,In-Store,880v13,Boomer,298,0.1,4.1,,
+Mar 2023,Northeast,Online,Fresh Foam X,Gen Z,280,0.14,3.2,,
+Mar 2023,Northeast,Online,Fresh Foam X,Millennial,321,0.12,4.3,,
+Mar 2023,Northeast,Online,Fresh Foam X,Gen X,265,0.12,3.7,,
+Mar 2023,Northeast,Online,Fresh Foam X,Boomer,313,0.07,4.5,,
+Mar 2023,Northeast,Online,FuelCell Rebel,Gen Z,171,0.13,3.1,,
+Mar 2023,Northeast,Online,FuelCell Rebel,Millennial,171,0.25,2.5,,
+Mar 2023,Northeast,Online,FuelCell Rebel,Gen X,194,0.2,3.4,,
+Mar 2023,Northeast,Online,FuelCell Rebel,Boomer,316,0.17,3.4,,
+Mar 2023,Northeast,Online,880v13,Gen Z,366,0.1,4.0,,
+Mar 2023,Northeast,Online,880v13,Millennial,175,0.27,2.5,,
+Mar 2023,Northeast,Online,880v13,Gen X,247,0.21,2.7,,
+Mar 2023,Northeast,Online,880v13,Boomer,341,0.16,2.8,,
+Mar 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,388,0.13,4.0,5948.0,TikTok
+Mar 2023,Northeast,Social Referral,Fresh Foam X,Millennial,205,0.1,4.4,6386.0,Instagram
+Mar 2023,Northeast,Social Referral,Fresh Foam X,Gen X,361,0.22,3.3,5557.0,Facebook
+Mar 2023,Northeast,Social Referral,Fresh Foam X,Boomer,183,0.14,3.9,4197.0,Instagram
+Mar 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,183,0.26,2.8,4848.0,Instagram
+Mar 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,287,0.22,2.7,5306.0,Instagram
+Mar 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,186,0.14,4.2,2663.0,Twitter
+Mar 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,272,0.2,3.2,4139.0,TikTok
+Mar 2023,Northeast,Social Referral,880v13,Gen Z,399,0.24,2.7,5057.0,Instagram
+Mar 2023,Northeast,Social Referral,880v13,Millennial,134,0.16,3.3,2882.0,Instagram
+Mar 2023,Northeast,Social Referral,880v13,Gen X,312,0.2,3.3,2203.0,Instagram
+Mar 2023,Northeast,Social Referral,880v13,Boomer,119,0.1,4.9,5521.0,Twitter
+Mar 2023,South,In-Store,Fresh Foam X,Gen Z,204,0.23,2.6,,
+Mar 2023,South,In-Store,Fresh Foam X,Millennial,327,0.07,4.1,,
+Mar 2023,South,In-Store,Fresh Foam X,Gen X,285,0.22,3.2,,
+Mar 2023,South,In-Store,Fresh Foam X,Boomer,324,0.17,3.1,,
+Mar 2023,South,In-Store,FuelCell Rebel,Gen Z,339,0.23,3.1,,
+Mar 2023,South,In-Store,FuelCell Rebel,Millennial,113,0.15,3.9,,
+Mar 2023,South,In-Store,FuelCell Rebel,Gen X,210,0.23,3.2,,
+Mar 2023,South,In-Store,FuelCell Rebel,Boomer,183,0.09,4.2,,
+Mar 2023,South,In-Store,880v13,Gen Z,127,0.19,2.7,,
+Mar 2023,South,In-Store,880v13,Millennial,263,0.15,3.6,,
+Mar 2023,South,In-Store,880v13,Gen X,109,0.05,4.6,,
+Mar 2023,South,In-Store,880v13,Boomer,356,0.26,2.5,,
+Mar 2023,South,Online,Fresh Foam X,Gen Z,100,0.11,3.5,,
+Mar 2023,South,Online,Fresh Foam X,Millennial,383,0.13,4.3,,
+Mar 2023,South,Online,Fresh Foam X,Gen X,219,0.17,3.7,,
+Mar 2023,South,Online,Fresh Foam X,Boomer,306,0.23,3.4,,
+Mar 2023,South,Online,FuelCell Rebel,Gen Z,229,0.13,3.6,,
+Mar 2023,South,Online,FuelCell Rebel,Millennial,381,0.19,3.1,,
+Mar 2023,South,Online,FuelCell Rebel,Gen X,260,0.12,3.8,,
+Mar 2023,South,Online,FuelCell Rebel,Boomer,375,0.2,3.1,,
+Mar 2023,South,Online,880v13,Gen Z,322,0.16,2.9,,
+Mar 2023,South,Online,880v13,Millennial,393,0.21,2.6,,
+Mar 2023,South,Online,880v13,Gen X,333,0.11,4.1,,
+Mar 2023,South,Online,880v13,Boomer,228,0.11,4.0,,
+Mar 2023,South,Social Referral,Fresh Foam X,Gen Z,104,0.14,3.6,6002.0,TikTok
+Mar 2023,South,Social Referral,Fresh Foam X,Millennial,175,0.12,3.9,4610.0,Facebook
+Mar 2023,South,Social Referral,Fresh Foam X,Gen X,100,0.18,2.9,7450.0,Instagram
+Mar 2023,South,Social Referral,Fresh Foam X,Boomer,319,0.09,4.2,3332.0,Instagram
+Mar 2023,South,Social Referral,FuelCell Rebel,Gen Z,260,0.2,2.9,5510.0,TikTok
+Mar 2023,South,Social Referral,FuelCell Rebel,Millennial,197,0.22,2.5,3599.0,TikTok
+Mar 2023,South,Social Referral,FuelCell Rebel,Gen X,181,0.13,3.9,4520.0,Instagram
+Mar 2023,South,Social Referral,FuelCell Rebel,Boomer,188,0.2,3.3,2806.0,TikTok
+Mar 2023,South,Social Referral,880v13,Gen Z,242,0.11,4.4,2670.0,Instagram
+Mar 2023,South,Social Referral,880v13,Millennial,201,0.13,3.8,3949.0,TikTok
+Mar 2023,South,Social Referral,880v13,Gen X,364,0.2,2.9,1250.0,Instagram
+Mar 2023,South,Social Referral,880v13,Boomer,253,0.26,2.5,5256.0,Twitter
+Mar 2023,Midwest,In-Store,Fresh Foam X,Gen Z,142,0.18,3.4,,
+Mar 2023,Midwest,In-Store,Fresh Foam X,Millennial,120,0.19,3.2,,
+Mar 2023,Midwest,In-Store,Fresh Foam X,Gen X,380,0.09,4.6,,
+Mar 2023,Midwest,In-Store,Fresh Foam X,Boomer,376,0.08,4.2,,
+Mar 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,151,0.18,3.3,,
+Mar 2023,Midwest,In-Store,FuelCell Rebel,Millennial,255,0.05,4.6,,
+Mar 2023,Midwest,In-Store,FuelCell Rebel,Gen X,257,0.1,4.3,,
+Mar 2023,Midwest,In-Store,FuelCell Rebel,Boomer,231,0.15,3.9,,
+Mar 2023,Midwest,In-Store,880v13,Gen Z,362,0.1,4.2,,
+Mar 2023,Midwest,In-Store,880v13,Millennial,258,0.12,3.9,,
+Mar 2023,Midwest,In-Store,880v13,Gen X,397,0.14,3.8,,
+Mar 2023,Midwest,In-Store,880v13,Boomer,362,0.13,4.0,,
+Mar 2023,Midwest,Online,Fresh Foam X,Gen Z,272,0.17,3.3,,
+Mar 2023,Midwest,Online,Fresh Foam X,Millennial,217,0.28,2.5,,
+Mar 2023,Midwest,Online,Fresh Foam X,Gen X,125,0.17,2.9,,
+Mar 2023,Midwest,Online,Fresh Foam X,Boomer,220,0.09,3.9,,
+Mar 2023,Midwest,Online,FuelCell Rebel,Gen Z,392,0.2,2.7,,
+Mar 2023,Midwest,Online,FuelCell Rebel,Millennial,199,0.24,2.5,,
+Mar 2023,Midwest,Online,FuelCell Rebel,Gen X,245,0.12,3.9,,
+Mar 2023,Midwest,Online,FuelCell Rebel,Boomer,341,0.13,3.5,,
+Mar 2023,Midwest,Online,880v13,Gen Z,207,0.13,3.8,,
+Mar 2023,Midwest,Online,880v13,Millennial,249,0.15,3.5,,
+Mar 2023,Midwest,Online,880v13,Gen X,259,0.08,4.4,,
+Mar 2023,Midwest,Online,880v13,Boomer,176,0.15,4.3,,
+Mar 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,357,0.18,2.7,4073.0,Twitter
+Mar 2023,Midwest,Social Referral,Fresh Foam X,Millennial,340,0.24,2.7,6806.0,Instagram
+Mar 2023,Midwest,Social Referral,Fresh Foam X,Gen X,387,0.13,3.6,4127.0,Instagram
+Mar 2023,Midwest,Social Referral,Fresh Foam X,Boomer,295,0.1,4.4,4677.0,TikTok
+Mar 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,126,0.08,4.4,7534.0,Instagram
+Mar 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,157,0.19,3.5,3185.0,Facebook
+Mar 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,357,0.05,4.3,3762.0,Facebook
+Mar 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,386,0.16,3.2,5784.0,Twitter
+Mar 2023,Midwest,Social Referral,880v13,Gen Z,257,0.23,2.6,6971.0,TikTok
+Mar 2023,Midwest,Social Referral,880v13,Millennial,243,0.09,3.8,4576.0,Facebook
+Mar 2023,Midwest,Social Referral,880v13,Gen X,217,0.21,2.9,8478.0,Instagram
+Mar 2023,Midwest,Social Referral,880v13,Boomer,330,0.17,3.4,6502.0,Twitter
+Mar 2023,West,In-Store,Fresh Foam X,Gen Z,325,0.12,3.4,,
+Mar 2023,West,In-Store,Fresh Foam X,Millennial,357,0.15,3.7,,
+Mar 2023,West,In-Store,Fresh Foam X,Gen X,279,0.16,3.4,,
+Mar 2023,West,In-Store,Fresh Foam X,Boomer,361,0.15,3.8,,
+Mar 2023,West,In-Store,FuelCell Rebel,Gen Z,200,0.15,2.8,,
+Mar 2023,West,In-Store,FuelCell Rebel,Millennial,148,0.15,3.5,,
+Mar 2023,West,In-Store,FuelCell Rebel,Gen X,390,0.17,3.9,,
+Mar 2023,West,In-Store,FuelCell Rebel,Boomer,233,0.13,3.6,,
+Mar 2023,West,In-Store,880v13,Gen Z,113,0.14,3.4,,
+Mar 2023,West,In-Store,880v13,Millennial,165,0.13,3.5,,
+Mar 2023,West,In-Store,880v13,Gen X,305,0.15,3.6,,
+Mar 2023,West,In-Store,880v13,Boomer,124,0.11,4.7,,
+Mar 2023,West,Online,Fresh Foam X,Gen Z,388,0.15,3.7,,
+Mar 2023,West,Online,Fresh Foam X,Millennial,209,0.16,3.4,,
+Mar 2023,West,Online,Fresh Foam X,Gen X,124,0.11,4.0,,
+Mar 2023,West,Online,Fresh Foam X,Boomer,124,0.14,3.6,,
+Mar 2023,West,Online,FuelCell Rebel,Gen Z,111,0.15,3.6,,
+Mar 2023,West,Online,FuelCell Rebel,Millennial,240,0.19,3.0,,
+Mar 2023,West,Online,FuelCell Rebel,Gen X,259,0.18,2.8,,
+Mar 2023,West,Online,FuelCell Rebel,Boomer,159,0.08,3.7,,
+Mar 2023,West,Online,880v13,Gen Z,104,0.14,4.0,,
+Mar 2023,West,Online,880v13,Millennial,229,0.23,2.7,,
+Mar 2023,West,Online,880v13,Gen X,155,0.12,3.3,,
+Mar 2023,West,Online,880v13,Boomer,198,0.11,3.7,,
+Mar 2023,West,Social Referral,Fresh Foam X,Gen Z,351,0.23,3.1,3900.0,Instagram
+Mar 2023,West,Social Referral,Fresh Foam X,Millennial,320,0.11,4.0,8433.0,Twitter
+Mar 2023,West,Social Referral,Fresh Foam X,Gen X,162,0.13,4.1,3090.0,Twitter
+Mar 2023,West,Social Referral,Fresh Foam X,Boomer,113,0.22,2.7,3256.0,Facebook
+Mar 2023,West,Social Referral,FuelCell Rebel,Gen Z,282,0.12,3.0,4180.0,Twitter
+Mar 2023,West,Social Referral,FuelCell Rebel,Millennial,164,0.17,3.6,4259.0,TikTok
+Mar 2023,West,Social Referral,FuelCell Rebel,Gen X,280,0.1,4.0,2059.0,TikTok
+Mar 2023,West,Social Referral,FuelCell Rebel,Boomer,282,0.25,2.5,5830.0,TikTok
+Mar 2023,West,Social Referral,880v13,Gen Z,326,0.08,3.7,7206.0,TikTok
+Mar 2023,West,Social Referral,880v13,Millennial,204,0.14,3.7,3903.0,Facebook
+Mar 2023,West,Social Referral,880v13,Gen X,229,0.07,4.2,4867.0,TikTok
+Mar 2023,West,Social Referral,880v13,Boomer,389,0.2,2.7,1757.0,Instagram
+Apr 2023,Northeast,In-Store,Fresh Foam X,Gen Z,272,0.17,3.1,,
+Apr 2023,Northeast,In-Store,Fresh Foam X,Millennial,186,0.14,3.6,,
+Apr 2023,Northeast,In-Store,Fresh Foam X,Gen X,186,0.13,3.8,,
+Apr 2023,Northeast,In-Store,Fresh Foam X,Boomer,251,0.15,3.3,,
+Apr 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,331,0.08,3.9,,
+Apr 2023,Northeast,In-Store,FuelCell Rebel,Millennial,238,0.12,4.2,,
+Apr 2023,Northeast,In-Store,FuelCell Rebel,Gen X,360,0.21,3.0,,
+Apr 2023,Northeast,In-Store,FuelCell Rebel,Boomer,107,0.2,2.8,,
+Apr 2023,Northeast,In-Store,880v13,Gen Z,148,0.11,3.6,,
+Apr 2023,Northeast,In-Store,880v13,Millennial,204,0.17,3.9,,
+Apr 2023,Northeast,In-Store,880v13,Gen X,289,0.13,3.9,,
+Apr 2023,Northeast,In-Store,880v13,Boomer,263,0.22,3.3,,
+Apr 2023,Northeast,Online,Fresh Foam X,Gen Z,387,0.1,4.1,,
+Apr 2023,Northeast,Online,Fresh Foam X,Millennial,109,0.18,3.1,,
+Apr 2023,Northeast,Online,Fresh Foam X,Gen X,282,0.14,3.4,,
+Apr 2023,Northeast,Online,Fresh Foam X,Boomer,223,0.09,4.0,,
+Apr 2023,Northeast,Online,FuelCell Rebel,Gen Z,312,0.15,4.1,,
+Apr 2023,Northeast,Online,FuelCell Rebel,Millennial,212,0.08,4.5,,
+Apr 2023,Northeast,Online,FuelCell Rebel,Gen X,131,0.19,3.0,,
+Apr 2023,Northeast,Online,FuelCell Rebel,Boomer,367,0.14,3.7,,
+Apr 2023,Northeast,Online,880v13,Gen Z,248,0.09,4.2,,
+Apr 2023,Northeast,Online,880v13,Millennial,323,0.16,3.0,,
+Apr 2023,Northeast,Online,880v13,Gen X,334,0.16,2.9,,
+Apr 2023,Northeast,Online,880v13,Boomer,368,0.15,3.5,,
+Apr 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,382,0.15,3.7,4363.0,Twitter
+Apr 2023,Northeast,Social Referral,Fresh Foam X,Millennial,288,0.1,4.2,7152.0,Instagram
+Apr 2023,Northeast,Social Referral,Fresh Foam X,Gen X,122,0.19,3.2,6934.0,Instagram
+Apr 2023,Northeast,Social Referral,Fresh Foam X,Boomer,285,0.18,3.1,3724.0,TikTok
+Apr 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,109,0.19,3.3,7316.0,Instagram
+Apr 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,185,0.2,3.1,5354.0,TikTok
+Apr 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,113,0.19,3.3,6689.0,TikTok
+Apr 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,169,0.19,2.9,1858.0,TikTok
+Apr 2023,Northeast,Social Referral,880v13,Gen Z,123,0.13,3.6,4409.0,Instagram
+Apr 2023,Northeast,Social Referral,880v13,Millennial,372,0.13,3.5,8837.0,TikTok
+Apr 2023,Northeast,Social Referral,880v13,Gen X,315,0.14,3.5,4633.0,Twitter
+Apr 2023,Northeast,Social Referral,880v13,Boomer,257,0.16,3.2,6241.0,TikTok
+Apr 2023,South,In-Store,Fresh Foam X,Gen Z,310,0.14,3.5,,
+Apr 2023,South,In-Store,Fresh Foam X,Millennial,129,0.15,3.9,,
+Apr 2023,South,In-Store,Fresh Foam X,Gen X,272,0.13,3.4,,
+Apr 2023,South,In-Store,Fresh Foam X,Boomer,282,0.12,3.4,,
+Apr 2023,South,In-Store,FuelCell Rebel,Gen Z,212,0.23,2.9,,
+Apr 2023,South,In-Store,FuelCell Rebel,Millennial,217,0.1,4.6,,
+Apr 2023,South,In-Store,FuelCell Rebel,Gen X,359,0.08,4.2,,
+Apr 2023,South,In-Store,FuelCell Rebel,Boomer,297,0.17,2.9,,
+Apr 2023,South,In-Store,880v13,Gen Z,237,0.16,2.9,,
+Apr 2023,South,In-Store,880v13,Millennial,150,0.2,2.9,,
+Apr 2023,South,In-Store,880v13,Gen X,148,0.18,3.2,,
+Apr 2023,South,In-Store,880v13,Boomer,169,0.13,3.7,,
+Apr 2023,South,Online,Fresh Foam X,Gen Z,394,0.05,4.5,,
+Apr 2023,South,Online,Fresh Foam X,Millennial,199,0.12,3.9,,
+Apr 2023,South,Online,Fresh Foam X,Gen X,287,0.19,3.0,,
+Apr 2023,South,Online,Fresh Foam X,Boomer,135,0.1,3.7,,
+Apr 2023,South,Online,FuelCell Rebel,Gen Z,369,0.11,3.6,,
+Apr 2023,South,Online,FuelCell Rebel,Millennial,281,0.21,2.8,,
+Apr 2023,South,Online,FuelCell Rebel,Gen X,169,0.15,3.3,,
+Apr 2023,South,Online,FuelCell Rebel,Boomer,283,0.16,3.3,,
+Apr 2023,South,Online,880v13,Gen Z,120,0.05,4.8,,
+Apr 2023,South,Online,880v13,Millennial,106,0.14,3.5,,
+Apr 2023,South,Online,880v13,Gen X,259,0.16,3.4,,
+Apr 2023,South,Online,880v13,Boomer,242,0.14,3.9,,
+Apr 2023,South,Social Referral,Fresh Foam X,Gen Z,253,0.07,4.1,6191.0,Instagram
+Apr 2023,South,Social Referral,Fresh Foam X,Millennial,260,0.09,4.0,4187.0,Instagram
+Apr 2023,South,Social Referral,Fresh Foam X,Gen X,185,0.2,3.8,4556.0,TikTok
+Apr 2023,South,Social Referral,Fresh Foam X,Boomer,116,0.16,3.0,5827.0,TikTok
+Apr 2023,South,Social Referral,FuelCell Rebel,Gen Z,104,0.13,4.3,7654.0,Twitter
+Apr 2023,South,Social Referral,FuelCell Rebel,Millennial,393,0.1,3.9,7062.0,Instagram
+Apr 2023,South,Social Referral,FuelCell Rebel,Gen X,148,0.12,3.6,4275.0,TikTok
+Apr 2023,South,Social Referral,FuelCell Rebel,Boomer,313,0.1,3.7,5689.0,Instagram
+Apr 2023,South,Social Referral,880v13,Gen Z,267,0.19,3.1,4729.0,Instagram
+Apr 2023,South,Social Referral,880v13,Millennial,378,0.31,2.5,6722.0,TikTok
+Apr 2023,South,Social Referral,880v13,Gen X,366,0.16,3.0,6378.0,Twitter
+Apr 2023,South,Social Referral,880v13,Boomer,184,0.12,4.1,2929.0,Instagram
+Apr 2023,Midwest,In-Store,Fresh Foam X,Gen Z,337,0.09,4.1,,
+Apr 2023,Midwest,In-Store,Fresh Foam X,Millennial,367,0.17,3.0,,
+Apr 2023,Midwest,In-Store,Fresh Foam X,Gen X,358,0.28,2.5,,
+Apr 2023,Midwest,In-Store,Fresh Foam X,Boomer,107,0.16,3.6,,
+Apr 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,206,0.2,2.8,,
+Apr 2023,Midwest,In-Store,FuelCell Rebel,Millennial,345,0.11,4.2,,
+Apr 2023,Midwest,In-Store,FuelCell Rebel,Gen X,228,0.16,3.4,,
+Apr 2023,Midwest,In-Store,FuelCell Rebel,Boomer,120,0.1,4.4,,
+Apr 2023,Midwest,In-Store,880v13,Gen Z,201,0.17,3.1,,
+Apr 2023,Midwest,In-Store,880v13,Millennial,230,0.24,2.7,,
+Apr 2023,Midwest,In-Store,880v13,Gen X,253,0.16,3.3,,
+Apr 2023,Midwest,In-Store,880v13,Boomer,288,0.09,3.8,,
+Apr 2023,Midwest,Online,Fresh Foam X,Gen Z,233,0.1,4.3,,
+Apr 2023,Midwest,Online,Fresh Foam X,Millennial,312,0.19,2.9,,
+Apr 2023,Midwest,Online,Fresh Foam X,Gen X,175,0.1,3.8,,
+Apr 2023,Midwest,Online,Fresh Foam X,Boomer,376,0.12,4.3,,
+Apr 2023,Midwest,Online,FuelCell Rebel,Gen Z,133,0.12,3.2,,
+Apr 2023,Midwest,Online,FuelCell Rebel,Millennial,174,0.21,3.4,,
+Apr 2023,Midwest,Online,FuelCell Rebel,Gen X,249,0.19,3.3,,
+Apr 2023,Midwest,Online,FuelCell Rebel,Boomer,370,0.13,3.8,,
+Apr 2023,Midwest,Online,880v13,Gen Z,347,0.13,3.9,,
+Apr 2023,Midwest,Online,880v13,Millennial,346,0.19,2.7,,
+Apr 2023,Midwest,Online,880v13,Gen X,103,0.13,3.8,,
+Apr 2023,Midwest,Online,880v13,Boomer,242,0.2,2.6,,
+Apr 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,241,0.14,3.7,5423.0,TikTok
+Apr 2023,Midwest,Social Referral,Fresh Foam X,Millennial,318,0.19,2.8,5225.0,Twitter
+Apr 2023,Midwest,Social Referral,Fresh Foam X,Gen X,137,0.12,3.4,4642.0,TikTok
+Apr 2023,Midwest,Social Referral,Fresh Foam X,Boomer,183,0.1,4.0,4545.0,Instagram
+Apr 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,201,0.19,3.0,5769.0,TikTok
+Apr 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,300,0.14,3.9,8085.0,TikTok
+Apr 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,220,0.18,3.1,5509.0,Twitter
+Apr 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,385,0.12,3.8,4129.0,Instagram
+Apr 2023,Midwest,Social Referral,880v13,Gen Z,241,0.07,4.5,6575.0,Instagram
+Apr 2023,Midwest,Social Referral,880v13,Millennial,167,0.11,3.5,3090.0,Facebook
+Apr 2023,Midwest,Social Referral,880v13,Gen X,354,0.14,3.5,5105.0,Instagram
+Apr 2023,Midwest,Social Referral,880v13,Boomer,375,0.21,2.9,2717.0,TikTok
+Apr 2023,West,In-Store,Fresh Foam X,Gen Z,300,0.16,3.6,,
+Apr 2023,West,In-Store,Fresh Foam X,Millennial,315,0.12,3.9,,
+Apr 2023,West,In-Store,Fresh Foam X,Gen X,175,0.09,4.1,,
+Apr 2023,West,In-Store,Fresh Foam X,Boomer,246,0.14,3.9,,
+Apr 2023,West,In-Store,FuelCell Rebel,Gen Z,331,0.15,3.7,,
+Apr 2023,West,In-Store,FuelCell Rebel,Millennial,256,0.22,3.1,,
+Apr 2023,West,In-Store,FuelCell Rebel,Gen X,127,0.19,2.9,,
+Apr 2023,West,In-Store,FuelCell Rebel,Boomer,166,0.17,3.3,,
+Apr 2023,West,In-Store,880v13,Gen Z,261,0.17,3.3,,
+Apr 2023,West,In-Store,880v13,Millennial,171,0.12,3.9,,
+Apr 2023,West,In-Store,880v13,Gen X,252,0.19,3.2,,
+Apr 2023,West,In-Store,880v13,Boomer,192,0.26,2.5,,
+Apr 2023,West,Online,Fresh Foam X,Gen Z,241,0.07,4.5,,
+Apr 2023,West,Online,Fresh Foam X,Millennial,276,0.14,3.6,,
+Apr 2023,West,Online,Fresh Foam X,Gen X,289,0.16,3.5,,
+Apr 2023,West,Online,Fresh Foam X,Boomer,189,0.05,4.1,,
+Apr 2023,West,Online,FuelCell Rebel,Gen Z,291,0.06,4.4,,
+Apr 2023,West,Online,FuelCell Rebel,Millennial,332,0.11,3.8,,
+Apr 2023,West,Online,FuelCell Rebel,Gen X,140,0.16,3.8,,
+Apr 2023,West,Online,FuelCell Rebel,Boomer,158,0.2,3.0,,
+Apr 2023,West,Online,880v13,Gen Z,291,0.13,3.5,,
+Apr 2023,West,Online,880v13,Millennial,100,0.22,2.6,,
+Apr 2023,West,Online,880v13,Gen X,171,0.16,3.6,,
+Apr 2023,West,Online,880v13,Boomer,367,0.09,4.4,,
+Apr 2023,West,Social Referral,Fresh Foam X,Gen Z,189,0.16,3.2,3937.0,Instagram
+Apr 2023,West,Social Referral,Fresh Foam X,Millennial,226,0.17,3.1,5401.0,Twitter
+Apr 2023,West,Social Referral,Fresh Foam X,Gen X,183,0.14,3.9,6701.0,Twitter
+Apr 2023,West,Social Referral,Fresh Foam X,Boomer,384,0.11,3.6,7116.0,Twitter
+Apr 2023,West,Social Referral,FuelCell Rebel,Gen Z,365,0.09,4.1,5677.0,TikTok
+Apr 2023,West,Social Referral,FuelCell Rebel,Millennial,192,0.1,4.0,3882.0,Instagram
+Apr 2023,West,Social Referral,FuelCell Rebel,Gen X,180,0.17,3.9,3746.0,Instagram
+Apr 2023,West,Social Referral,FuelCell Rebel,Boomer,312,0.14,3.4,5927.0,Twitter
+Apr 2023,West,Social Referral,880v13,Gen Z,393,0.17,3.6,7760.0,Instagram
+Apr 2023,West,Social Referral,880v13,Millennial,221,0.11,3.5,5697.0,Instagram
+Apr 2023,West,Social Referral,880v13,Gen X,294,0.06,4.2,2246.0,TikTok
+Apr 2023,West,Social Referral,880v13,Boomer,199,0.21,3.1,1412.0,Twitter
+May 2023,Northeast,In-Store,Fresh Foam X,Gen Z,255,0.09,4.0,,
+May 2023,Northeast,In-Store,Fresh Foam X,Millennial,155,0.16,2.8,,
+May 2023,Northeast,In-Store,Fresh Foam X,Gen X,225,0.11,4.0,,
+May 2023,Northeast,In-Store,Fresh Foam X,Boomer,163,0.07,4.7,,
+May 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,215,0.23,3.3,,
+May 2023,Northeast,In-Store,FuelCell Rebel,Millennial,130,0.11,4.0,,
+May 2023,Northeast,In-Store,FuelCell Rebel,Gen X,166,0.14,3.7,,
+May 2023,Northeast,In-Store,FuelCell Rebel,Boomer,254,0.06,4.0,,
+May 2023,Northeast,In-Store,880v13,Gen Z,361,0.14,4.1,,
+May 2023,Northeast,In-Store,880v13,Millennial,129,0.15,3.5,,
+May 2023,Northeast,In-Store,880v13,Gen X,136,0.15,3.6,,
+May 2023,Northeast,In-Store,880v13,Boomer,186,0.16,3.4,,
+May 2023,Northeast,Online,Fresh Foam X,Gen Z,300,0.14,3.7,,
+May 2023,Northeast,Online,Fresh Foam X,Millennial,208,0.15,3.6,,
+May 2023,Northeast,Online,Fresh Foam X,Gen X,261,0.12,3.6,,
+May 2023,Northeast,Online,Fresh Foam X,Boomer,141,0.18,3.5,,
+May 2023,Northeast,Online,FuelCell Rebel,Gen Z,349,0.14,3.5,,
+May 2023,Northeast,Online,FuelCell Rebel,Millennial,120,0.15,3.6,,
+May 2023,Northeast,Online,FuelCell Rebel,Gen X,191,0.17,3.2,,
+May 2023,Northeast,Online,FuelCell Rebel,Boomer,372,0.1,4.3,,
+May 2023,Northeast,Online,880v13,Gen Z,313,0.25,2.8,,
+May 2023,Northeast,Online,880v13,Millennial,264,0.12,3.9,,
+May 2023,Northeast,Online,880v13,Gen X,104,0.28,2.5,,
+May 2023,Northeast,Online,880v13,Boomer,246,0.16,3.1,,
+May 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,366,0.12,3.2,3982.0,TikTok
+May 2023,Northeast,Social Referral,Fresh Foam X,Millennial,145,0.15,3.5,5980.0,Instagram
+May 2023,Northeast,Social Referral,Fresh Foam X,Gen X,169,0.06,4.8,3641.0,TikTok
+May 2023,Northeast,Social Referral,Fresh Foam X,Boomer,302,0.12,3.7,6011.0,TikTok
+May 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,318,0.21,2.8,5622.0,Facebook
+May 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,147,0.22,2.5,3808.0,Instagram
+May 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,112,0.19,3.3,5118.0,TikTok
+May 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,376,0.2,3.3,4202.0,Instagram
+May 2023,Northeast,Social Referral,880v13,Gen Z,283,0.22,2.8,6813.0,Instagram
+May 2023,Northeast,Social Referral,880v13,Millennial,240,0.08,4.4,6131.0,TikTok
+May 2023,Northeast,Social Referral,880v13,Gen X,226,0.17,3.5,4666.0,TikTok
+May 2023,Northeast,Social Referral,880v13,Boomer,359,0.11,3.7,4783.0,Instagram
+May 2023,South,In-Store,Fresh Foam X,Gen Z,358,0.2,3.6,,
+May 2023,South,In-Store,Fresh Foam X,Millennial,389,0.17,3.5,,
+May 2023,South,In-Store,Fresh Foam X,Gen X,244,0.22,2.8,,
+May 2023,South,In-Store,Fresh Foam X,Boomer,243,0.09,4.1,,
+May 2023,South,In-Store,FuelCell Rebel,Gen Z,112,0.09,4.3,,
+May 2023,South,In-Store,FuelCell Rebel,Millennial,389,0.19,2.9,,
+May 2023,South,In-Store,FuelCell Rebel,Gen X,219,0.19,3.0,,
+May 2023,South,In-Store,FuelCell Rebel,Boomer,320,0.21,3.0,,
+May 2023,South,In-Store,880v13,Gen Z,332,0.13,3.3,,
+May 2023,South,In-Store,880v13,Millennial,380,0.05,4.6,,
+May 2023,South,In-Store,880v13,Gen X,109,0.16,3.8,,
+May 2023,South,In-Store,880v13,Boomer,247,0.09,4.3,,
+May 2023,South,Online,Fresh Foam X,Gen Z,152,0.16,3.8,,
+May 2023,South,Online,Fresh Foam X,Millennial,290,0.12,4.3,,
+May 2023,South,Online,Fresh Foam X,Gen X,389,0.17,3.0,,
+May 2023,South,Online,Fresh Foam X,Boomer,174,0.12,3.3,,
+May 2023,South,Online,FuelCell Rebel,Gen Z,340,0.12,3.8,,
+May 2023,South,Online,FuelCell Rebel,Millennial,195,0.19,3.2,,
+May 2023,South,Online,FuelCell Rebel,Gen X,187,0.19,2.8,,
+May 2023,South,Online,FuelCell Rebel,Boomer,256,0.16,3.1,,
+May 2023,South,Online,880v13,Gen Z,261,0.2,2.8,,
+May 2023,South,Online,880v13,Millennial,240,0.06,4.0,,
+May 2023,South,Online,880v13,Gen X,155,0.15,4.1,,
+May 2023,South,Online,880v13,Boomer,316,0.18,3.0,,
+May 2023,South,Social Referral,Fresh Foam X,Gen Z,112,0.12,3.6,5573.0,Facebook
+May 2023,South,Social Referral,Fresh Foam X,Millennial,300,0.11,4.0,4572.0,TikTok
+May 2023,South,Social Referral,Fresh Foam X,Gen X,397,0.15,3.2,6474.0,Twitter
+May 2023,South,Social Referral,Fresh Foam X,Boomer,245,0.13,4.1,5946.0,Instagram
+May 2023,South,Social Referral,FuelCell Rebel,Gen Z,112,0.21,2.8,4405.0,TikTok
+May 2023,South,Social Referral,FuelCell Rebel,Millennial,199,0.17,3.6,7403.0,Instagram
+May 2023,South,Social Referral,FuelCell Rebel,Gen X,315,0.16,3.3,8700.0,Instagram
+May 2023,South,Social Referral,FuelCell Rebel,Boomer,334,0.1,3.8,4755.0,Instagram
+May 2023,South,Social Referral,880v13,Gen Z,237,0.1,4.0,3376.0,Facebook
+May 2023,South,Social Referral,880v13,Millennial,357,0.19,3.0,1041.0,Twitter
+May 2023,South,Social Referral,880v13,Gen X,116,0.14,3.7,5925.0,Instagram
+May 2023,South,Social Referral,880v13,Boomer,329,0.17,3.2,7347.0,Instagram
+May 2023,Midwest,In-Store,Fresh Foam X,Gen Z,203,0.11,3.9,,
+May 2023,Midwest,In-Store,Fresh Foam X,Millennial,274,0.14,3.7,,
+May 2023,Midwest,In-Store,Fresh Foam X,Gen X,233,0.06,4.2,,
+May 2023,Midwest,In-Store,Fresh Foam X,Boomer,252,0.16,3.9,,
+May 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,343,0.2,3.6,,
+May 2023,Midwest,In-Store,FuelCell Rebel,Millennial,307,0.2,2.6,,
+May 2023,Midwest,In-Store,FuelCell Rebel,Gen X,234,0.17,3.5,,
+May 2023,Midwest,In-Store,FuelCell Rebel,Boomer,259,0.16,3.5,,
+May 2023,Midwest,In-Store,880v13,Gen Z,316,0.1,3.8,,
+May 2023,Midwest,In-Store,880v13,Millennial,158,0.13,3.6,,
+May 2023,Midwest,In-Store,880v13,Gen X,256,0.14,3.1,,
+May 2023,Midwest,In-Store,880v13,Boomer,178,0.16,3.3,,
+May 2023,Midwest,Online,Fresh Foam X,Gen Z,103,0.18,3.2,,
+May 2023,Midwest,Online,Fresh Foam X,Millennial,127,0.12,4.0,,
+May 2023,Midwest,Online,Fresh Foam X,Gen X,189,0.13,3.6,,
+May 2023,Midwest,Online,Fresh Foam X,Boomer,125,0.13,4.0,,
+May 2023,Midwest,Online,FuelCell Rebel,Gen Z,366,0.15,3.6,,
+May 2023,Midwest,Online,FuelCell Rebel,Millennial,167,0.23,2.5,,
+May 2023,Midwest,Online,FuelCell Rebel,Gen X,148,0.14,3.7,,
+May 2023,Midwest,Online,FuelCell Rebel,Boomer,287,0.11,3.9,,
+May 2023,Midwest,Online,880v13,Gen Z,273,0.1,4.0,,
+May 2023,Midwest,Online,880v13,Millennial,325,0.15,3.0,,
+May 2023,Midwest,Online,880v13,Gen X,376,0.16,3.5,,
+May 2023,Midwest,Online,880v13,Boomer,161,0.14,4.0,,
+May 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,301,0.14,3.2,6630.0,Twitter
+May 2023,Midwest,Social Referral,Fresh Foam X,Millennial,334,0.16,3.1,5604.0,Facebook
+May 2023,Midwest,Social Referral,Fresh Foam X,Gen X,149,0.13,3.9,2602.0,Twitter
+May 2023,Midwest,Social Referral,Fresh Foam X,Boomer,118,0.17,3.1,4141.0,Instagram
+May 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,359,0.18,3.4,7041.0,Instagram
+May 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,346,0.1,4.3,4523.0,TikTok
+May 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,193,0.22,3.2,5348.0,TikTok
+May 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,185,0.09,4.4,5524.0,TikTok
+May 2023,Midwest,Social Referral,880v13,Gen Z,255,0.18,2.8,3956.0,TikTok
+May 2023,Midwest,Social Referral,880v13,Millennial,190,0.1,3.7,3772.0,Twitter
+May 2023,Midwest,Social Referral,880v13,Gen X,240,0.15,3.7,647.0,TikTok
+May 2023,Midwest,Social Referral,880v13,Boomer,216,0.25,2.5,4366.0,TikTok
+May 2023,West,In-Store,Fresh Foam X,Gen Z,272,0.17,2.8,,
+May 2023,West,In-Store,Fresh Foam X,Millennial,190,0.21,2.8,,
+May 2023,West,In-Store,Fresh Foam X,Gen X,356,0.15,3.2,,
+May 2023,West,In-Store,Fresh Foam X,Boomer,302,0.11,4.1,,
+May 2023,West,In-Store,FuelCell Rebel,Gen Z,292,0.16,3.3,,
+May 2023,West,In-Store,FuelCell Rebel,Millennial,336,0.13,3.3,,
+May 2023,West,In-Store,FuelCell Rebel,Gen X,355,0.25,2.5,,
+May 2023,West,In-Store,FuelCell Rebel,Boomer,198,0.2,2.9,,
+May 2023,West,In-Store,880v13,Gen Z,208,0.19,3.0,,
+May 2023,West,In-Store,880v13,Millennial,253,0.14,3.9,,
+May 2023,West,In-Store,880v13,Gen X,231,0.08,4.3,,
+May 2023,West,In-Store,880v13,Boomer,140,0.19,2.6,,
+May 2023,West,Online,Fresh Foam X,Gen Z,145,0.05,4.6,,
+May 2023,West,Online,Fresh Foam X,Millennial,379,0.19,3.3,,
+May 2023,West,Online,Fresh Foam X,Gen X,123,0.1,4.1,,
+May 2023,West,Online,Fresh Foam X,Boomer,280,0.12,3.3,,
+May 2023,West,Online,FuelCell Rebel,Gen Z,168,0.2,2.5,,
+May 2023,West,Online,FuelCell Rebel,Millennial,268,0.12,3.8,,
+May 2023,West,Online,FuelCell Rebel,Gen X,237,0.12,3.6,,
+May 2023,West,Online,FuelCell Rebel,Boomer,184,0.1,3.8,,
+May 2023,West,Online,880v13,Gen Z,278,0.21,2.6,,
+May 2023,West,Online,880v13,Millennial,338,0.22,2.7,,
+May 2023,West,Online,880v13,Gen X,129,0.21,2.6,,
+May 2023,West,Online,880v13,Boomer,305,0.13,3.5,,
+May 2023,West,Social Referral,Fresh Foam X,Gen Z,146,0.12,4.2,7608.0,Instagram
+May 2023,West,Social Referral,Fresh Foam X,Millennial,386,0.2,3.0,2376.0,Instagram
+May 2023,West,Social Referral,Fresh Foam X,Gen X,109,0.05,4.4,5216.0,Instagram
+May 2023,West,Social Referral,Fresh Foam X,Boomer,201,0.17,3.5,6440.0,Instagram
+May 2023,West,Social Referral,FuelCell Rebel,Gen Z,180,0.2,3.3,6224.0,TikTok
+May 2023,West,Social Referral,FuelCell Rebel,Millennial,266,0.15,3.4,6413.0,Instagram
+May 2023,West,Social Referral,FuelCell Rebel,Gen X,268,0.12,3.5,5659.0,TikTok
+May 2023,West,Social Referral,FuelCell Rebel,Boomer,274,0.19,3.6,1784.0,Instagram
+May 2023,West,Social Referral,880v13,Gen Z,370,0.05,4.5,4401.0,TikTok
+May 2023,West,Social Referral,880v13,Millennial,388,0.16,3.4,5682.0,Instagram
+May 2023,West,Social Referral,880v13,Gen X,267,0.15,3.3,6048.0,Instagram
+May 2023,West,Social Referral,880v13,Boomer,246,0.17,3.0,4580.0,TikTok
+Jun 2023,Northeast,In-Store,Fresh Foam X,Gen Z,247,0.2,3.4,,
+Jun 2023,Northeast,In-Store,Fresh Foam X,Millennial,101,0.17,3.5,,
+Jun 2023,Northeast,In-Store,Fresh Foam X,Gen X,106,0.17,3.2,,
+Jun 2023,Northeast,In-Store,Fresh Foam X,Boomer,213,0.15,3.3,,
+Jun 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,225,0.09,4.0,,
+Jun 2023,Northeast,In-Store,FuelCell Rebel,Millennial,239,0.07,4.6,,
+Jun 2023,Northeast,In-Store,FuelCell Rebel,Gen X,156,0.16,3.7,,
+Jun 2023,Northeast,In-Store,FuelCell Rebel,Boomer,158,0.12,3.7,,
+Jun 2023,Northeast,In-Store,880v13,Gen Z,118,0.12,3.9,,
+Jun 2023,Northeast,In-Store,880v13,Millennial,146,0.16,3.4,,
+Jun 2023,Northeast,In-Store,880v13,Gen X,183,0.21,3.3,,
+Jun 2023,Northeast,In-Store,880v13,Boomer,113,0.18,3.4,,
+Jun 2023,Northeast,Online,Fresh Foam X,Gen Z,347,0.15,3.4,,
+Jun 2023,Northeast,Online,Fresh Foam X,Millennial,301,0.14,3.3,,
+Jun 2023,Northeast,Online,Fresh Foam X,Gen X,181,0.12,4.3,,
+Jun 2023,Northeast,Online,Fresh Foam X,Boomer,318,0.11,3.9,,
+Jun 2023,Northeast,Online,FuelCell Rebel,Gen Z,365,0.24,2.6,,
+Jun 2023,Northeast,Online,FuelCell Rebel,Millennial,101,0.2,2.6,,
+Jun 2023,Northeast,Online,FuelCell Rebel,Gen X,121,0.16,3.1,,
+Jun 2023,Northeast,Online,FuelCell Rebel,Boomer,318,0.12,3.7,,
+Jun 2023,Northeast,Online,880v13,Gen Z,207,0.11,3.9,,
+Jun 2023,Northeast,Online,880v13,Millennial,389,0.1,4.4,,
+Jun 2023,Northeast,Online,880v13,Gen X,382,0.21,3.2,,
+Jun 2023,Northeast,Online,880v13,Boomer,147,0.19,3.9,,
+Jun 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,158,0.2,3.1,5827.0,Instagram
+Jun 2023,Northeast,Social Referral,Fresh Foam X,Millennial,377,0.17,2.9,7145.0,Instagram
+Jun 2023,Northeast,Social Referral,Fresh Foam X,Gen X,167,0.15,3.7,6136.0,TikTok
+Jun 2023,Northeast,Social Referral,Fresh Foam X,Boomer,361,0.22,2.8,4738.0,Instagram
+Jun 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,226,0.17,3.4,5081.0,Twitter
+Jun 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,347,0.22,2.9,2713.0,TikTok
+Jun 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,311,0.18,2.9,3540.0,Instagram
+Jun 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,260,0.06,4.2,5359.0,Facebook
+Jun 2023,Northeast,Social Referral,880v13,Gen Z,237,0.14,3.9,2258.0,TikTok
+Jun 2023,Northeast,Social Referral,880v13,Millennial,190,0.15,3.3,5056.0,Instagram
+Jun 2023,Northeast,Social Referral,880v13,Gen X,172,0.18,3.0,6280.0,Facebook
+Jun 2023,Northeast,Social Referral,880v13,Boomer,136,0.13,4.0,5961.0,Twitter
+Jun 2023,South,In-Store,Fresh Foam X,Gen Z,157,0.19,2.8,,
+Jun 2023,South,In-Store,Fresh Foam X,Millennial,267,0.25,2.5,,
+Jun 2023,South,In-Store,Fresh Foam X,Gen X,136,0.13,4.1,,
+Jun 2023,South,In-Store,Fresh Foam X,Boomer,162,0.13,3.2,,
+Jun 2023,South,In-Store,FuelCell Rebel,Gen Z,284,0.17,2.9,,
+Jun 2023,South,In-Store,FuelCell Rebel,Millennial,234,0.15,3.3,,
+Jun 2023,South,In-Store,FuelCell Rebel,Gen X,306,0.2,2.7,,
+Jun 2023,South,In-Store,FuelCell Rebel,Boomer,341,0.19,3.1,,
+Jun 2023,South,In-Store,880v13,Gen Z,232,0.19,3.4,,
+Jun 2023,South,In-Store,880v13,Millennial,183,0.22,2.7,,
+Jun 2023,South,In-Store,880v13,Gen X,228,0.1,3.8,,
+Jun 2023,South,In-Store,880v13,Boomer,333,0.05,4.7,,
+Jun 2023,South,Online,Fresh Foam X,Gen Z,151,0.16,3.4,,
+Jun 2023,South,Online,Fresh Foam X,Millennial,131,0.18,3.4,,
+Jun 2023,South,Online,Fresh Foam X,Gen X,209,0.15,2.8,,
+Jun 2023,South,Online,Fresh Foam X,Boomer,394,0.11,3.6,,
+Jun 2023,South,Online,FuelCell Rebel,Gen Z,236,0.17,2.7,,
+Jun 2023,South,Online,FuelCell Rebel,Millennial,360,0.2,3.1,,
+Jun 2023,South,Online,FuelCell Rebel,Gen X,313,0.13,3.1,,
+Jun 2023,South,Online,FuelCell Rebel,Boomer,186,0.18,2.9,,
+Jun 2023,South,Online,880v13,Gen Z,211,0.16,3.9,,
+Jun 2023,South,Online,880v13,Millennial,249,0.05,4.7,,
+Jun 2023,South,Online,880v13,Gen X,225,0.11,3.5,,
+Jun 2023,South,Online,880v13,Boomer,214,0.16,2.9,,
+Jun 2023,South,Social Referral,Fresh Foam X,Gen Z,127,0.11,3.7,3776.0,Instagram
+Jun 2023,South,Social Referral,Fresh Foam X,Millennial,251,0.11,4.2,8132.0,Twitter
+Jun 2023,South,Social Referral,Fresh Foam X,Gen X,118,0.11,4.4,3864.0,Instagram
+Jun 2023,South,Social Referral,Fresh Foam X,Boomer,240,0.18,3.3,6386.0,Twitter
+Jun 2023,South,Social Referral,FuelCell Rebel,Gen Z,304,0.15,4.1,4847.0,Facebook
+Jun 2023,South,Social Referral,FuelCell Rebel,Millennial,116,0.19,3.0,3073.0,TikTok
+Jun 2023,South,Social Referral,FuelCell Rebel,Gen X,106,0.18,3.6,5628.0,Twitter
+Jun 2023,South,Social Referral,FuelCell Rebel,Boomer,128,0.19,3.5,6495.0,Instagram
+Jun 2023,South,Social Referral,880v13,Gen Z,124,0.2,3.3,4662.0,TikTok
+Jun 2023,South,Social Referral,880v13,Millennial,217,0.23,2.6,7145.0,Instagram
+Jun 2023,South,Social Referral,880v13,Gen X,370,0.11,3.9,6856.0,Facebook
+Jun 2023,South,Social Referral,880v13,Boomer,147,0.13,3.3,4869.0,TikTok
+Jun 2023,Midwest,In-Store,Fresh Foam X,Gen Z,319,0.17,3.3,,
+Jun 2023,Midwest,In-Store,Fresh Foam X,Millennial,181,0.21,2.8,,
+Jun 2023,Midwest,In-Store,Fresh Foam X,Gen X,119,0.1,3.8,,
+Jun 2023,Midwest,In-Store,Fresh Foam X,Boomer,281,0.19,3.5,,
+Jun 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,161,0.08,3.8,,
+Jun 2023,Midwest,In-Store,FuelCell Rebel,Millennial,221,0.18,3.1,,
+Jun 2023,Midwest,In-Store,FuelCell Rebel,Gen X,334,0.17,3.4,,
+Jun 2023,Midwest,In-Store,FuelCell Rebel,Boomer,258,0.18,3.4,,
+Jun 2023,Midwest,In-Store,880v13,Gen Z,306,0.16,3.2,,
+Jun 2023,Midwest,In-Store,880v13,Millennial,300,0.22,2.9,,
+Jun 2023,Midwest,In-Store,880v13,Gen X,394,0.21,3.1,,
+Jun 2023,Midwest,In-Store,880v13,Boomer,310,0.22,3.0,,
+Jun 2023,Midwest,Online,Fresh Foam X,Gen Z,170,0.09,4.5,,
+Jun 2023,Midwest,Online,Fresh Foam X,Millennial,314,0.09,4.7,,
+Jun 2023,Midwest,Online,Fresh Foam X,Gen X,391,0.16,3.7,,
+Jun 2023,Midwest,Online,Fresh Foam X,Boomer,161,0.15,3.1,,
+Jun 2023,Midwest,Online,FuelCell Rebel,Gen Z,368,0.11,4.4,,
+Jun 2023,Midwest,Online,FuelCell Rebel,Millennial,203,0.1,3.8,,
+Jun 2023,Midwest,Online,FuelCell Rebel,Gen X,193,0.17,3.5,,
+Jun 2023,Midwest,Online,FuelCell Rebel,Boomer,306,0.25,2.9,,
+Jun 2023,Midwest,Online,880v13,Gen Z,277,0.21,2.8,,
+Jun 2023,Midwest,Online,880v13,Millennial,245,0.15,3.7,,
+Jun 2023,Midwest,Online,880v13,Gen X,161,0.1,4.3,,
+Jun 2023,Midwest,Online,880v13,Boomer,265,0.11,4.1,,
+Jun 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,272,0.14,4.0,6347.0,TikTok
+Jun 2023,Midwest,Social Referral,Fresh Foam X,Millennial,173,0.09,4.4,5805.0,TikTok
+Jun 2023,Midwest,Social Referral,Fresh Foam X,Gen X,378,0.19,3.3,4384.0,Twitter
+Jun 2023,Midwest,Social Referral,Fresh Foam X,Boomer,121,0.12,3.9,2652.0,Instagram
+Jun 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,277,0.13,4.1,5101.0,TikTok
+Jun 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,203,0.08,4.0,5412.0,TikTok
+Jun 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,281,0.27,2.5,3385.0,Facebook
+Jun 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,286,0.09,4.0,6649.0,Instagram
+Jun 2023,Midwest,Social Referral,880v13,Gen Z,390,0.16,3.5,3844.0,Twitter
+Jun 2023,Midwest,Social Referral,880v13,Millennial,102,0.13,4.0,5495.0,Twitter
+Jun 2023,Midwest,Social Referral,880v13,Gen X,124,0.16,3.2,6326.0,Instagram
+Jun 2023,Midwest,Social Referral,880v13,Boomer,252,0.21,3.0,2901.0,Facebook
+Jun 2023,West,In-Store,Fresh Foam X,Gen Z,209,0.22,2.5,,
+Jun 2023,West,In-Store,Fresh Foam X,Millennial,290,0.18,3.5,,
+Jun 2023,West,In-Store,Fresh Foam X,Gen X,113,0.15,3.3,,
+Jun 2023,West,In-Store,Fresh Foam X,Boomer,254,0.1,4.4,,
+Jun 2023,West,In-Store,FuelCell Rebel,Gen Z,174,0.15,3.1,,
+Jun 2023,West,In-Store,FuelCell Rebel,Millennial,158,0.2,3.4,,
+Jun 2023,West,In-Store,FuelCell Rebel,Gen X,163,0.13,4.1,,
+Jun 2023,West,In-Store,FuelCell Rebel,Boomer,203,0.13,4.2,,
+Jun 2023,West,In-Store,880v13,Gen Z,308,0.13,3.8,,
+Jun 2023,West,In-Store,880v13,Millennial,211,0.05,3.9,,
+Jun 2023,West,In-Store,880v13,Gen X,119,0.15,3.7,,
+Jun 2023,West,In-Store,880v13,Boomer,283,0.21,3.0,,
+Jun 2023,West,Online,Fresh Foam X,Gen Z,391,0.16,3.3,,
+Jun 2023,West,Online,Fresh Foam X,Millennial,398,0.11,3.9,,
+Jun 2023,West,Online,Fresh Foam X,Gen X,227,0.08,4.4,,
+Jun 2023,West,Online,Fresh Foam X,Boomer,334,0.17,3.2,,
+Jun 2023,West,Online,FuelCell Rebel,Gen Z,338,0.1,4.4,,
+Jun 2023,West,Online,FuelCell Rebel,Millennial,314,0.19,2.9,,
+Jun 2023,West,Online,FuelCell Rebel,Gen X,278,0.16,3.4,,
+Jun 2023,West,Online,FuelCell Rebel,Boomer,363,0.13,3.4,,
+Jun 2023,West,Online,880v13,Gen Z,218,0.23,2.5,,
+Jun 2023,West,Online,880v13,Millennial,397,0.12,3.7,,
+Jun 2023,West,Online,880v13,Gen X,157,0.14,3.1,,
+Jun 2023,West,Online,880v13,Boomer,315,0.06,4.3,,
+Jun 2023,West,Social Referral,Fresh Foam X,Gen Z,209,0.09,4.3,2877.0,Instagram
+Jun 2023,West,Social Referral,Fresh Foam X,Millennial,135,0.09,4.3,4163.0,Instagram
+Jun 2023,West,Social Referral,Fresh Foam X,Gen X,265,0.15,3.2,5859.0,TikTok
+Jun 2023,West,Social Referral,Fresh Foam X,Boomer,291,0.06,4.5,9039.0,Instagram
+Jun 2023,West,Social Referral,FuelCell Rebel,Gen Z,211,0.16,3.4,5469.0,Instagram
+Jun 2023,West,Social Referral,FuelCell Rebel,Millennial,205,0.15,3.2,2924.0,Instagram
+Jun 2023,West,Social Referral,FuelCell Rebel,Gen X,188,0.24,2.8,5723.0,Instagram
+Jun 2023,West,Social Referral,FuelCell Rebel,Boomer,266,0.17,3.8,5536.0,Facebook
+Jun 2023,West,Social Referral,880v13,Gen Z,317,0.15,3.1,4921.0,Twitter
+Jun 2023,West,Social Referral,880v13,Millennial,310,0.24,2.5,5496.0,TikTok
+Jun 2023,West,Social Referral,880v13,Gen X,394,0.23,2.6,4634.0,Facebook
+Jun 2023,West,Social Referral,880v13,Boomer,328,0.14,4.1,5111.0,Twitter
+Jul 2023,Northeast,In-Store,Fresh Foam X,Gen Z,375,0.13,3.9,,
+Jul 2023,Northeast,In-Store,Fresh Foam X,Millennial,247,0.09,4.4,,
+Jul 2023,Northeast,In-Store,Fresh Foam X,Gen X,304,0.1,3.6,,
+Jul 2023,Northeast,In-Store,Fresh Foam X,Boomer,384,0.13,4.0,,
+Jul 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,157,0.12,4.1,,
+Jul 2023,Northeast,In-Store,FuelCell Rebel,Millennial,263,0.07,4.0,,
+Jul 2023,Northeast,In-Store,FuelCell Rebel,Gen X,330,0.05,3.9,,
+Jul 2023,Northeast,In-Store,FuelCell Rebel,Boomer,418,0.14,3.8,,
+Jul 2023,Northeast,In-Store,880v13,Gen Z,319,0.11,4.5,,
+Jul 2023,Northeast,In-Store,880v13,Millennial,334,0.08,3.8,,
+Jul 2023,Northeast,In-Store,880v13,Gen X,421,0.13,3.5,,
+Jul 2023,Northeast,In-Store,880v13,Boomer,261,0.07,4.1,,
+Jul 2023,Northeast,Online,Fresh Foam X,Gen Z,239,0.21,4.0,,
+Jul 2023,Northeast,Online,Fresh Foam X,Millennial,354,0.18,3.9,,
+Jul 2023,Northeast,Online,Fresh Foam X,Gen X,276,0.19,3.0,,
+Jul 2023,Northeast,Online,Fresh Foam X,Boomer,355,0.12,2.2,,
+Jul 2023,Northeast,Online,FuelCell Rebel,Gen Z,339,0.17,4.0,,
+Jul 2023,Northeast,Online,FuelCell Rebel,Millennial,156,0.16,3.2,,
+Jul 2023,Northeast,Online,FuelCell Rebel,Gen X,153,0.18,2.6,,
+Jul 2023,Northeast,Online,FuelCell Rebel,Boomer,181,0.23,4.4,,
+Jul 2023,Northeast,Online,880v13,Gen Z,285,0.17,3.7,,
+Jul 2023,Northeast,Online,880v13,Millennial,376,0.15,2.7,,
+Jul 2023,Northeast,Online,880v13,Gen X,213,0.18,4.2,,
+Jul 2023,Northeast,Online,880v13,Boomer,302,0.13,3.0,,
+Jul 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,177,0.2,4.9,207.0,Facebook
+Jul 2023,Northeast,Social Referral,Fresh Foam X,Millennial,403,0.25,4.1,343.0,Facebook
+Jul 2023,Northeast,Social Referral,Fresh Foam X,Gen X,167,0.27,4.7,733.0,Twitter
+Jul 2023,Northeast,Social Referral,Fresh Foam X,Boomer,399,0.18,5.0,386.0,Twitter
+Jul 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,153,0.2,4.1,247.0,TikTok
+Jul 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,172,0.23,4.5,416.0,Instagram
+Jul 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,356,0.2,4.3,374.0,Instagram
+Jul 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,388,0.17,4.8,333.0,Facebook
+Jul 2023,Northeast,Social Referral,880v13,Gen Z,236,0.15,4.1,419.0,TikTok
+Jul 2023,Northeast,Social Referral,880v13,Millennial,247,0.29,4.1,480.0,Facebook
+Jul 2023,Northeast,Social Referral,880v13,Gen X,171,0.2,4.7,406.0,Facebook
+Jul 2023,Northeast,Social Referral,880v13,Boomer,197,0.18,4.0,264.0,Instagram
+Jul 2023,South,In-Store,Fresh Foam X,Gen Z,281,0.12,3.8,,
+Jul 2023,South,In-Store,Fresh Foam X,Millennial,294,0.12,3.8,,
+Jul 2023,South,In-Store,Fresh Foam X,Gen X,238,0.2,4.2,,
+Jul 2023,South,In-Store,Fresh Foam X,Boomer,380,0.09,4.0,,
+Jul 2023,South,In-Store,FuelCell Rebel,Gen Z,317,0.08,3.8,,
+Jul 2023,South,In-Store,FuelCell Rebel,Millennial,304,0.09,4.4,,
+Jul 2023,South,In-Store,FuelCell Rebel,Gen X,421,0.05,3.1,,
+Jul 2023,South,In-Store,FuelCell Rebel,Boomer,326,0.12,4.0,,
+Jul 2023,South,In-Store,880v13,Gen Z,242,0.09,3.3,,
+Jul 2023,South,In-Store,880v13,Millennial,216,0.06,4.3,,
+Jul 2023,South,In-Store,880v13,Gen X,268,0.08,3.6,,
+Jul 2023,South,In-Store,880v13,Boomer,239,0.11,3.7,,
+Jul 2023,South,Online,Fresh Foam X,Gen Z,202,0.2,2.6,,
+Jul 2023,South,Online,Fresh Foam X,Millennial,241,0.18,3.4,,
+Jul 2023,South,Online,Fresh Foam X,Gen X,175,0.16,3.3,,
+Jul 2023,South,Online,Fresh Foam X,Boomer,299,0.17,4.1,,
+Jul 2023,South,Online,FuelCell Rebel,Gen Z,237,0.23,3.3,,
+Jul 2023,South,Online,FuelCell Rebel,Millennial,275,0.19,3.7,,
+Jul 2023,South,Online,FuelCell Rebel,Gen X,200,0.19,4.5,,
+Jul 2023,South,Online,FuelCell Rebel,Boomer,164,0.18,4.4,,
+Jul 2023,South,Online,880v13,Gen Z,165,0.16,2.0,,
+Jul 2023,South,Online,880v13,Millennial,164,0.18,2.9,,
+Jul 2023,South,Online,880v13,Gen X,317,0.18,4.2,,
+Jul 2023,South,Online,880v13,Boomer,440,0.2,3.7,,
+Jul 2023,South,Social Referral,Fresh Foam X,Gen Z,335,0.21,4.5,461.0,TikTok
+Jul 2023,South,Social Referral,Fresh Foam X,Millennial,414,0.35,4.0,429.0,Facebook
+Jul 2023,South,Social Referral,Fresh Foam X,Gen X,193,0.15,5.0,728.0,TikTok
+Jul 2023,South,Social Referral,Fresh Foam X,Boomer,377,0.16,4.0,599.0,Twitter
+Jul 2023,South,Social Referral,FuelCell Rebel,Gen Z,394,0.17,4.1,527.0,Instagram
+Jul 2023,South,Social Referral,FuelCell Rebel,Millennial,279,0.23,4.1,663.0,TikTok
+Jul 2023,South,Social Referral,FuelCell Rebel,Gen X,203,0.19,4.2,204.0,TikTok
+Jul 2023,South,Social Referral,FuelCell Rebel,Boomer,283,0.23,4.2,642.0,TikTok
+Jul 2023,South,Social Referral,880v13,Gen Z,394,0.22,3.9,582.0,Twitter
+Jul 2023,South,Social Referral,880v13,Millennial,369,0.18,3.9,491.0,Instagram
+Jul 2023,South,Social Referral,880v13,Gen X,436,0.18,3.4,219.0,TikTok
+Jul 2023,South,Social Referral,880v13,Boomer,267,0.26,4.6,457.0,Twitter
+Jul 2023,Midwest,In-Store,Fresh Foam X,Gen Z,320,0.08,3.7,,
+Jul 2023,Midwest,In-Store,Fresh Foam X,Millennial,295,0.08,4.2,,
+Jul 2023,Midwest,In-Store,Fresh Foam X,Gen X,218,0.14,4.1,,
+Jul 2023,Midwest,In-Store,Fresh Foam X,Boomer,274,0.07,3.6,,
+Jul 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,173,0.08,4.4,,
+Jul 2023,Midwest,In-Store,FuelCell Rebel,Millennial,224,0.13,4.0,,
+Jul 2023,Midwest,In-Store,FuelCell Rebel,Gen X,410,0.08,3.3,,
+Jul 2023,Midwest,In-Store,FuelCell Rebel,Boomer,154,0.08,4.4,,
+Jul 2023,Midwest,In-Store,880v13,Gen Z,180,0.06,3.9,,
+Jul 2023,Midwest,In-Store,880v13,Millennial,312,0.05,3.7,,
+Jul 2023,Midwest,In-Store,880v13,Gen X,374,0.09,3.8,,
+Jul 2023,Midwest,In-Store,880v13,Boomer,418,0.06,3.7,,
+Jul 2023,Midwest,Online,Fresh Foam X,Gen Z,369,0.2,3.1,,
+Jul 2023,Midwest,Online,Fresh Foam X,Millennial,375,0.29,3.0,,
+Jul 2023,Midwest,Online,Fresh Foam X,Gen X,364,0.2,2.6,,
+Jul 2023,Midwest,Online,Fresh Foam X,Boomer,256,0.19,3.7,,
+Jul 2023,Midwest,Online,FuelCell Rebel,Gen Z,393,0.18,3.4,,
+Jul 2023,Midwest,Online,FuelCell Rebel,Millennial,285,0.22,3.8,,
+Jul 2023,Midwest,Online,FuelCell Rebel,Gen X,399,0.2,3.7,,
+Jul 2023,Midwest,Online,FuelCell Rebel,Boomer,429,0.14,4.1,,
+Jul 2023,Midwest,Online,880v13,Gen Z,181,0.19,4.5,,
+Jul 2023,Midwest,Online,880v13,Millennial,412,0.23,3.5,,
+Jul 2023,Midwest,Online,880v13,Gen X,176,0.15,3.1,,
+Jul 2023,Midwest,Online,880v13,Boomer,206,0.18,4.3,,
+Jul 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,212,0.19,4.2,623.0,Facebook
+Jul 2023,Midwest,Social Referral,Fresh Foam X,Millennial,240,0.18,3.6,395.0,Twitter
+Jul 2023,Midwest,Social Referral,Fresh Foam X,Gen X,407,0.16,4.2,556.0,Instagram
+Jul 2023,Midwest,Social Referral,Fresh Foam X,Boomer,383,0.22,4.1,344.0,TikTok
+Jul 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,401,0.15,4.7,265.0,Facebook
+Jul 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,258,0.09,4.2,736.0,Facebook
+Jul 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,415,0.22,4.0,773.0,TikTok
+Jul 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,183,0.21,3.8,544.0,TikTok
+Jul 2023,Midwest,Social Referral,880v13,Gen Z,324,0.26,3.5,603.0,Facebook
+Jul 2023,Midwest,Social Referral,880v13,Millennial,231,0.12,5.0,421.0,Twitter
+Jul 2023,Midwest,Social Referral,880v13,Gen X,173,0.19,4.2,535.0,Instagram
+Jul 2023,Midwest,Social Referral,880v13,Boomer,434,0.25,4.4,728.0,Twitter
+Jul 2023,West,In-Store,Fresh Foam X,Gen Z,307,0.07,3.1,,
+Jul 2023,West,In-Store,Fresh Foam X,Millennial,317,0.1,3.8,,
+Jul 2023,West,In-Store,Fresh Foam X,Gen X,212,0.07,4.2,,
+Jul 2023,West,In-Store,Fresh Foam X,Boomer,440,0.17,3.1,,
+Jul 2023,West,In-Store,FuelCell Rebel,Gen Z,227,0.07,3.7,,
+Jul 2023,West,In-Store,FuelCell Rebel,Millennial,250,0.15,4.3,,
+Jul 2023,West,In-Store,FuelCell Rebel,Gen X,264,0.08,4.4,,
+Jul 2023,West,In-Store,FuelCell Rebel,Boomer,245,0.12,4.2,,
+Jul 2023,West,In-Store,880v13,Gen Z,200,0.14,4.1,,
+Jul 2023,West,In-Store,880v13,Millennial,344,0.07,4.4,,
+Jul 2023,West,In-Store,880v13,Gen X,214,0.09,4.4,,
+Jul 2023,West,In-Store,880v13,Boomer,230,0.1,3.7,,
+Jul 2023,West,Online,Fresh Foam X,Gen Z,427,0.21,3.3,,
+Jul 2023,West,Online,Fresh Foam X,Millennial,174,0.21,4.1,,
+Jul 2023,West,Online,Fresh Foam X,Gen X,226,0.19,2.4,,
+Jul 2023,West,Online,Fresh Foam X,Boomer,357,0.13,4.0,,
+Jul 2023,West,Online,FuelCell Rebel,Gen Z,198,0.1,4.1,,
+Jul 2023,West,Online,FuelCell Rebel,Millennial,341,0.19,4.1,,
+Jul 2023,West,Online,FuelCell Rebel,Gen X,277,0.17,2.7,,
+Jul 2023,West,Online,FuelCell Rebel,Boomer,221,0.14,3.7,,
+Jul 2023,West,Online,880v13,Gen Z,294,0.17,3.2,,
+Jul 2023,West,Online,880v13,Millennial,416,0.19,3.1,,
+Jul 2023,West,Online,880v13,Gen X,265,0.19,3.3,,
+Jul 2023,West,Online,880v13,Boomer,318,0.19,3.8,,
+Jul 2023,West,Social Referral,Fresh Foam X,Gen Z,197,0.19,4.3,388.0,Instagram
+Jul 2023,West,Social Referral,Fresh Foam X,Millennial,389,0.15,5.0,689.0,Instagram
+Jul 2023,West,Social Referral,Fresh Foam X,Gen X,283,0.14,3.4,640.0,Instagram
+Jul 2023,West,Social Referral,Fresh Foam X,Boomer,174,0.17,4.6,400.0,Instagram
+Jul 2023,West,Social Referral,FuelCell Rebel,Gen Z,296,0.2,4.1,688.0,Facebook
+Jul 2023,West,Social Referral,FuelCell Rebel,Millennial,361,0.2,3.6,458.0,Instagram
+Jul 2023,West,Social Referral,FuelCell Rebel,Gen X,232,0.25,3.3,769.0,Instagram
+Jul 2023,West,Social Referral,FuelCell Rebel,Boomer,333,0.23,4.6,761.0,Instagram
+Jul 2023,West,Social Referral,880v13,Gen Z,227,0.23,4.0,610.0,Facebook
+Jul 2023,West,Social Referral,880v13,Millennial,395,0.12,3.5,666.0,Facebook
+Jul 2023,West,Social Referral,880v13,Gen X,172,0.25,4.0,538.0,Facebook
+Jul 2023,West,Social Referral,880v13,Boomer,227,0.24,4.6,753.0,Instagram
+Aug 2023,Northeast,In-Store,Fresh Foam X,Gen Z,312,0.11,3.9,,
+Aug 2023,Northeast,In-Store,Fresh Foam X,Millennial,419,0.1,3.9,,
+Aug 2023,Northeast,In-Store,Fresh Foam X,Gen X,252,0.14,4.1,,
+Aug 2023,Northeast,In-Store,Fresh Foam X,Boomer,420,0.08,3.4,,
+Aug 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,242,0.07,3.3,,
+Aug 2023,Northeast,In-Store,FuelCell Rebel,Millennial,293,0.08,4.2,,
+Aug 2023,Northeast,In-Store,FuelCell Rebel,Gen X,320,0.08,4.3,,
+Aug 2023,Northeast,In-Store,FuelCell Rebel,Boomer,214,0.05,3.3,,
+Aug 2023,Northeast,In-Store,880v13,Gen Z,290,0.07,4.2,,
+Aug 2023,Northeast,In-Store,880v13,Millennial,302,0.09,4.8,,
+Aug 2023,Northeast,In-Store,880v13,Gen X,297,0.1,4.4,,
+Aug 2023,Northeast,In-Store,880v13,Boomer,426,0.11,3.6,,
+Aug 2023,Northeast,Online,Fresh Foam X,Gen Z,392,0.22,4.2,,
+Aug 2023,Northeast,Online,Fresh Foam X,Millennial,271,0.22,3.3,,
+Aug 2023,Northeast,Online,Fresh Foam X,Gen X,246,0.31,3.2,,
+Aug 2023,Northeast,Online,Fresh Foam X,Boomer,247,0.19,3.4,,
+Aug 2023,Northeast,Online,FuelCell Rebel,Gen Z,274,0.2,2.3,,
+Aug 2023,Northeast,Online,FuelCell Rebel,Millennial,322,0.18,2.1,,
+Aug 2023,Northeast,Online,FuelCell Rebel,Gen X,159,0.17,2.6,,
+Aug 2023,Northeast,Online,FuelCell Rebel,Boomer,342,0.19,2.7,,
+Aug 2023,Northeast,Online,880v13,Gen Z,216,0.19,3.6,,
+Aug 2023,Northeast,Online,880v13,Millennial,426,0.18,3.0,,
+Aug 2023,Northeast,Online,880v13,Gen X,441,0.19,4.1,,
+Aug 2023,Northeast,Online,880v13,Boomer,179,0.17,3.3,,
+Aug 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,283,0.18,4.3,761.0,TikTok
+Aug 2023,Northeast,Social Referral,Fresh Foam X,Millennial,280,0.2,4.1,583.0,Twitter
+Aug 2023,Northeast,Social Referral,Fresh Foam X,Gen X,333,0.21,3.4,708.0,Instagram
+Aug 2023,Northeast,Social Referral,Fresh Foam X,Boomer,292,0.27,4.8,355.0,Facebook
+Aug 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,447,0.25,4.4,594.0,Facebook
+Aug 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,342,0.17,3.8,592.0,TikTok
+Aug 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,354,0.21,3.6,218.0,Instagram
+Aug 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,237,0.26,5.0,214.0,Twitter
+Aug 2023,Northeast,Social Referral,880v13,Gen Z,322,0.11,3.5,472.0,TikTok
+Aug 2023,Northeast,Social Referral,880v13,Millennial,198,0.3,4.7,290.0,Instagram
+Aug 2023,Northeast,Social Referral,880v13,Gen X,362,0.2,4.4,655.0,Instagram
+Aug 2023,Northeast,Social Referral,880v13,Boomer,442,0.16,4.1,722.0,Facebook
+Aug 2023,South,In-Store,Fresh Foam X,Gen Z,153,0.12,4.1,,
+Aug 2023,South,In-Store,Fresh Foam X,Millennial,243,0.06,4.4,,
+Aug 2023,South,In-Store,Fresh Foam X,Gen X,366,0.11,3.8,,
+Aug 2023,South,In-Store,Fresh Foam X,Boomer,245,0.1,3.5,,
+Aug 2023,South,In-Store,FuelCell Rebel,Gen Z,293,0.07,4.2,,
+Aug 2023,South,In-Store,FuelCell Rebel,Millennial,359,0.06,4.3,,
+Aug 2023,South,In-Store,FuelCell Rebel,Gen X,279,0.15,4.1,,
+Aug 2023,South,In-Store,FuelCell Rebel,Boomer,424,0.16,3.4,,
+Aug 2023,South,In-Store,880v13,Gen Z,326,0.11,3.3,,
+Aug 2023,South,In-Store,880v13,Millennial,366,0.06,4.2,,
+Aug 2023,South,In-Store,880v13,Gen X,202,0.1,3.7,,
+Aug 2023,South,In-Store,880v13,Boomer,283,0.1,4.0,,
+Aug 2023,South,Online,Fresh Foam X,Gen Z,246,0.22,2.9,,
+Aug 2023,South,Online,Fresh Foam X,Millennial,251,0.2,3.9,,
+Aug 2023,South,Online,Fresh Foam X,Gen X,203,0.15,3.2,,
+Aug 2023,South,Online,Fresh Foam X,Boomer,357,0.13,2.3,,
+Aug 2023,South,Online,FuelCell Rebel,Gen Z,243,0.18,4.4,,
+Aug 2023,South,Online,FuelCell Rebel,Millennial,255,0.18,4.2,,
+Aug 2023,South,Online,FuelCell Rebel,Gen X,386,0.21,5.0,,
+Aug 2023,South,Online,FuelCell Rebel,Boomer,233,0.17,3.6,,
+Aug 2023,South,Online,880v13,Gen Z,166,0.21,3.6,,
+Aug 2023,South,Online,880v13,Millennial,354,0.17,2.7,,
+Aug 2023,South,Online,880v13,Gen X,438,0.21,4.3,,
+Aug 2023,South,Online,880v13,Boomer,404,0.09,3.2,,
+Aug 2023,South,Social Referral,Fresh Foam X,Gen Z,192,0.2,3.7,683.0,TikTok
+Aug 2023,South,Social Referral,Fresh Foam X,Millennial,241,0.21,4.1,735.0,Twitter
+Aug 2023,South,Social Referral,Fresh Foam X,Gen X,302,0.18,3.9,267.0,Instagram
+Aug 2023,South,Social Referral,Fresh Foam X,Boomer,334,0.21,4.1,736.0,Instagram
+Aug 2023,South,Social Referral,FuelCell Rebel,Gen Z,414,0.22,4.5,437.0,Facebook
+Aug 2023,South,Social Referral,FuelCell Rebel,Millennial,190,0.21,4.0,200.0,Instagram
+Aug 2023,South,Social Referral,FuelCell Rebel,Gen X,171,0.22,3.6,760.0,Twitter
+Aug 2023,South,Social Referral,FuelCell Rebel,Boomer,184,0.15,3.8,661.0,Instagram
+Aug 2023,South,Social Referral,880v13,Gen Z,268,0.11,4.9,745.0,Facebook
+Aug 2023,South,Social Referral,880v13,Millennial,286,0.17,4.6,294.0,Twitter
+Aug 2023,South,Social Referral,880v13,Gen X,185,0.16,3.6,357.0,Facebook
+Aug 2023,South,Social Referral,880v13,Boomer,291,0.16,4.0,515.0,Instagram
+Aug 2023,Midwest,In-Store,Fresh Foam X,Gen Z,204,0.09,3.6,,
+Aug 2023,Midwest,In-Store,Fresh Foam X,Millennial,407,0.06,3.2,,
+Aug 2023,Midwest,In-Store,Fresh Foam X,Gen X,282,0.09,3.6,,
+Aug 2023,Midwest,In-Store,Fresh Foam X,Boomer,194,0.06,3.6,,
+Aug 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,423,0.08,3.8,,
+Aug 2023,Midwest,In-Store,FuelCell Rebel,Millennial,309,0.1,3.9,,
+Aug 2023,Midwest,In-Store,FuelCell Rebel,Gen X,281,0.14,3.6,,
+Aug 2023,Midwest,In-Store,FuelCell Rebel,Boomer,410,0.06,4.2,,
+Aug 2023,Midwest,In-Store,880v13,Gen Z,160,0.09,4.5,,
+Aug 2023,Midwest,In-Store,880v13,Millennial,270,0.09,3.8,,
+Aug 2023,Midwest,In-Store,880v13,Gen X,275,0.11,3.9,,
+Aug 2023,Midwest,In-Store,880v13,Boomer,366,0.12,4.4,,
+Aug 2023,Midwest,Online,Fresh Foam X,Gen Z,440,0.14,3.8,,
+Aug 2023,Midwest,Online,Fresh Foam X,Millennial,334,0.13,3.9,,
+Aug 2023,Midwest,Online,Fresh Foam X,Gen X,443,0.21,3.1,,
+Aug 2023,Midwest,Online,Fresh Foam X,Boomer,316,0.13,3.8,,
+Aug 2023,Midwest,Online,FuelCell Rebel,Gen Z,190,0.18,4.2,,
+Aug 2023,Midwest,Online,FuelCell Rebel,Millennial,221,0.12,3.3,,
+Aug 2023,Midwest,Online,FuelCell Rebel,Gen X,421,0.14,4.1,,
+Aug 2023,Midwest,Online,FuelCell Rebel,Boomer,410,0.21,2.4,,
+Aug 2023,Midwest,Online,880v13,Gen Z,179,0.15,3.0,,
+Aug 2023,Midwest,Online,880v13,Millennial,367,0.22,3.8,,
+Aug 2023,Midwest,Online,880v13,Gen X,231,0.16,3.8,,
+Aug 2023,Midwest,Online,880v13,Boomer,361,0.14,4.6,,
+Aug 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,263,0.21,5.0,610.0,TikTok
+Aug 2023,Midwest,Social Referral,Fresh Foam X,Millennial,375,0.24,4.7,717.0,TikTok
+Aug 2023,Midwest,Social Referral,Fresh Foam X,Gen X,308,0.19,3.5,736.0,Facebook
+Aug 2023,Midwest,Social Referral,Fresh Foam X,Boomer,429,0.13,4.4,675.0,TikTok
+Aug 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,330,0.2,4.3,376.0,Instagram
+Aug 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,340,0.16,4.4,478.0,Facebook
+Aug 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,425,0.2,3.7,763.0,TikTok
+Aug 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,383,0.12,4.2,322.0,TikTok
+Aug 2023,Midwest,Social Referral,880v13,Gen Z,430,0.21,3.0,206.0,TikTok
+Aug 2023,Midwest,Social Referral,880v13,Millennial,172,0.24,4.3,754.0,Facebook
+Aug 2023,Midwest,Social Referral,880v13,Gen X,154,0.25,3.9,571.0,Facebook
+Aug 2023,Midwest,Social Referral,880v13,Boomer,309,0.12,4.6,308.0,Facebook
+Aug 2023,West,In-Store,Fresh Foam X,Gen Z,422,0.09,4.3,,
+Aug 2023,West,In-Store,Fresh Foam X,Millennial,195,0.1,4.4,,
+Aug 2023,West,In-Store,Fresh Foam X,Gen X,296,0.15,3.4,,
+Aug 2023,West,In-Store,Fresh Foam X,Boomer,373,0.1,4.2,,
+Aug 2023,West,In-Store,FuelCell Rebel,Gen Z,184,0.1,3.8,,
+Aug 2023,West,In-Store,FuelCell Rebel,Millennial,205,0.12,3.6,,
+Aug 2023,West,In-Store,FuelCell Rebel,Gen X,429,0.1,3.8,,
+Aug 2023,West,In-Store,FuelCell Rebel,Boomer,339,0.12,3.5,,
+Aug 2023,West,In-Store,880v13,Gen Z,446,0.09,3.8,,
+Aug 2023,West,In-Store,880v13,Millennial,302,0.15,4.0,,
+Aug 2023,West,In-Store,880v13,Gen X,428,0.08,4.2,,
+Aug 2023,West,In-Store,880v13,Boomer,262,0.06,4.4,,
+Aug 2023,West,Online,Fresh Foam X,Gen Z,192,0.18,3.4,,
+Aug 2023,West,Online,Fresh Foam X,Millennial,373,0.17,2.8,,
+Aug 2023,West,Online,Fresh Foam X,Gen X,430,0.2,2.7,,
+Aug 2023,West,Online,Fresh Foam X,Boomer,442,0.25,4.1,,
+Aug 2023,West,Online,FuelCell Rebel,Gen Z,410,0.2,4.3,,
+Aug 2023,West,Online,FuelCell Rebel,Millennial,428,0.12,4.2,,
+Aug 2023,West,Online,FuelCell Rebel,Gen X,358,0.19,3.3,,
+Aug 2023,West,Online,FuelCell Rebel,Boomer,223,0.17,2.5,,
+Aug 2023,West,Online,880v13,Gen Z,196,0.22,4.5,,
+Aug 2023,West,Online,880v13,Millennial,231,0.19,3.0,,
+Aug 2023,West,Online,880v13,Gen X,361,0.1,2.9,,
+Aug 2023,West,Online,880v13,Boomer,367,0.22,4.0,,
+Aug 2023,West,Social Referral,Fresh Foam X,Gen Z,367,0.15,3.7,712.0,Twitter
+Aug 2023,West,Social Referral,Fresh Foam X,Millennial,277,0.18,4.0,251.0,TikTok
+Aug 2023,West,Social Referral,Fresh Foam X,Gen X,321,0.28,4.3,560.0,Facebook
+Aug 2023,West,Social Referral,Fresh Foam X,Boomer,281,0.19,4.1,255.0,Facebook
+Aug 2023,West,Social Referral,FuelCell Rebel,Gen Z,190,0.21,3.5,480.0,Twitter
+Aug 2023,West,Social Referral,FuelCell Rebel,Millennial,222,0.19,4.5,414.0,Twitter
+Aug 2023,West,Social Referral,FuelCell Rebel,Gen X,230,0.21,3.7,665.0,Twitter
+Aug 2023,West,Social Referral,FuelCell Rebel,Boomer,371,0.23,3.5,592.0,Facebook
+Aug 2023,West,Social Referral,880v13,Gen Z,207,0.13,4.9,661.0,TikTok
+Aug 2023,West,Social Referral,880v13,Millennial,162,0.15,4.6,422.0,TikTok
+Aug 2023,West,Social Referral,880v13,Gen X,197,0.22,4.1,507.0,Twitter
+Aug 2023,West,Social Referral,880v13,Boomer,445,0.19,4.6,530.0,TikTok
+Sep 2023,Northeast,In-Store,Fresh Foam X,Gen Z,281,0.09,3.9,,
+Sep 2023,Northeast,In-Store,Fresh Foam X,Millennial,254,0.15,3.7,,
+Sep 2023,Northeast,In-Store,Fresh Foam X,Gen X,391,0.1,3.4,,
+Sep 2023,Northeast,In-Store,Fresh Foam X,Boomer,346,0.06,4.3,,
+Sep 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,211,0.1,3.9,,
+Sep 2023,Northeast,In-Store,FuelCell Rebel,Millennial,358,0.08,3.7,,
+Sep 2023,Northeast,In-Store,FuelCell Rebel,Gen X,176,0.07,3.3,,
+Sep 2023,Northeast,In-Store,FuelCell Rebel,Boomer,215,0.05,4.0,,
+Sep 2023,Northeast,In-Store,880v13,Gen Z,344,0.1,4.6,,
+Sep 2023,Northeast,In-Store,880v13,Millennial,422,0.16,3.6,,
+Sep 2023,Northeast,In-Store,880v13,Gen X,420,0.08,4.2,,
+Sep 2023,Northeast,In-Store,880v13,Boomer,202,0.08,2.8,,
+Sep 2023,Northeast,Online,Fresh Foam X,Gen Z,344,0.11,3.3,,
+Sep 2023,Northeast,Online,Fresh Foam X,Millennial,330,0.11,3.7,,
+Sep 2023,Northeast,Online,Fresh Foam X,Gen X,390,0.14,4.3,,
+Sep 2023,Northeast,Online,Fresh Foam X,Boomer,286,0.17,3.4,,
+Sep 2023,Northeast,Online,FuelCell Rebel,Gen Z,425,0.16,2.8,,
+Sep 2023,Northeast,Online,FuelCell Rebel,Millennial,155,0.21,4.0,,
+Sep 2023,Northeast,Online,FuelCell Rebel,Gen X,238,0.24,3.3,,
+Sep 2023,Northeast,Online,FuelCell Rebel,Boomer,423,0.28,3.5,,
+Sep 2023,Northeast,Online,880v13,Gen Z,168,0.2,3.4,,
+Sep 2023,Northeast,Online,880v13,Millennial,446,0.21,5.0,,
+Sep 2023,Northeast,Online,880v13,Gen X,321,0.17,3.7,,
+Sep 2023,Northeast,Online,880v13,Boomer,319,0.14,2.7,,
+Sep 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,362,0.17,4.2,374.0,TikTok
+Sep 2023,Northeast,Social Referral,Fresh Foam X,Millennial,197,0.24,4.3,769.0,TikTok
+Sep 2023,Northeast,Social Referral,Fresh Foam X,Gen X,435,0.2,4.2,791.0,Twitter
+Sep 2023,Northeast,Social Referral,Fresh Foam X,Boomer,241,0.19,5.0,324.0,TikTok
+Sep 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,335,0.21,3.9,560.0,TikTok
+Sep 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,245,0.17,4.6,319.0,Twitter
+Sep 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,414,0.15,4.0,321.0,Twitter
+Sep 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,385,0.14,4.4,766.0,Twitter
+Sep 2023,Northeast,Social Referral,880v13,Gen Z,358,0.29,4.2,748.0,Facebook
+Sep 2023,Northeast,Social Referral,880v13,Millennial,187,0.17,4.2,205.0,Facebook
+Sep 2023,Northeast,Social Referral,880v13,Gen X,382,0.18,4.5,569.0,Facebook
+Sep 2023,Northeast,Social Referral,880v13,Boomer,353,0.22,4.4,454.0,Instagram
+Sep 2023,South,In-Store,Fresh Foam X,Gen Z,321,0.13,4.0,,
+Sep 2023,South,In-Store,Fresh Foam X,Millennial,292,0.09,3.7,,
+Sep 2023,South,In-Store,Fresh Foam X,Gen X,350,0.17,3.6,,
+Sep 2023,South,In-Store,Fresh Foam X,Boomer,392,0.17,3.5,,
+Sep 2023,South,In-Store,FuelCell Rebel,Gen Z,202,0.06,3.9,,
+Sep 2023,South,In-Store,FuelCell Rebel,Millennial,371,0.08,4.3,,
+Sep 2023,South,In-Store,FuelCell Rebel,Gen X,233,0.08,3.9,,
+Sep 2023,South,In-Store,FuelCell Rebel,Boomer,365,0.09,3.9,,
+Sep 2023,South,In-Store,880v13,Gen Z,311,0.07,3.8,,
+Sep 2023,South,In-Store,880v13,Millennial,339,0.07,3.4,,
+Sep 2023,South,In-Store,880v13,Gen X,311,0.07,3.9,,
+Sep 2023,South,In-Store,880v13,Boomer,276,0.06,4.4,,
+Sep 2023,South,Online,Fresh Foam X,Gen Z,284,0.1,2.7,,
+Sep 2023,South,Online,Fresh Foam X,Millennial,216,0.21,4.4,,
+Sep 2023,South,Online,Fresh Foam X,Gen X,356,0.18,3.1,,
+Sep 2023,South,Online,Fresh Foam X,Boomer,212,0.22,3.1,,
+Sep 2023,South,Online,FuelCell Rebel,Gen Z,311,0.18,4.8,,
+Sep 2023,South,Online,FuelCell Rebel,Millennial,151,0.2,4.1,,
+Sep 2023,South,Online,FuelCell Rebel,Gen X,393,0.15,3.9,,
+Sep 2023,South,Online,FuelCell Rebel,Boomer,255,0.21,3.5,,
+Sep 2023,South,Online,880v13,Gen Z,388,0.2,3.4,,
+Sep 2023,South,Online,880v13,Millennial,330,0.21,4.8,,
+Sep 2023,South,Online,880v13,Gen X,205,0.13,3.6,,
+Sep 2023,South,Online,880v13,Boomer,333,0.23,4.6,,
+Sep 2023,South,Social Referral,Fresh Foam X,Gen Z,220,0.21,4.4,578.0,Facebook
+Sep 2023,South,Social Referral,Fresh Foam X,Millennial,186,0.2,3.8,526.0,TikTok
+Sep 2023,South,Social Referral,Fresh Foam X,Gen X,407,0.16,3.6,386.0,Twitter
+Sep 2023,South,Social Referral,Fresh Foam X,Boomer,273,0.29,4.8,403.0,Instagram
+Sep 2023,South,Social Referral,FuelCell Rebel,Gen Z,427,0.22,3.9,419.0,Facebook
+Sep 2023,South,Social Referral,FuelCell Rebel,Millennial,373,0.15,4.7,566.0,Twitter
+Sep 2023,South,Social Referral,FuelCell Rebel,Gen X,426,0.21,3.6,506.0,TikTok
+Sep 2023,South,Social Referral,FuelCell Rebel,Boomer,281,0.19,4.9,338.0,Facebook
+Sep 2023,South,Social Referral,880v13,Gen Z,385,0.23,4.2,354.0,Facebook
+Sep 2023,South,Social Referral,880v13,Millennial,274,0.32,4.0,785.0,TikTok
+Sep 2023,South,Social Referral,880v13,Gen X,412,0.21,4.7,332.0,Twitter
+Sep 2023,South,Social Referral,880v13,Boomer,341,0.17,4.1,299.0,Instagram
+Sep 2023,Midwest,In-Store,Fresh Foam X,Gen Z,341,0.1,3.6,,
+Sep 2023,Midwest,In-Store,Fresh Foam X,Millennial,212,0.13,4.3,,
+Sep 2023,Midwest,In-Store,Fresh Foam X,Gen X,370,0.1,3.5,,
+Sep 2023,Midwest,In-Store,Fresh Foam X,Boomer,200,0.12,4.0,,
+Sep 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,295,0.15,4.1,,
+Sep 2023,Midwest,In-Store,FuelCell Rebel,Millennial,332,0.15,4.4,,
+Sep 2023,Midwest,In-Store,FuelCell Rebel,Gen X,418,0.07,4.0,,
+Sep 2023,Midwest,In-Store,FuelCell Rebel,Boomer,323,0.11,4.1,,
+Sep 2023,Midwest,In-Store,880v13,Gen Z,186,0.1,3.7,,
+Sep 2023,Midwest,In-Store,880v13,Millennial,341,0.1,4.3,,
+Sep 2023,Midwest,In-Store,880v13,Gen X,286,0.11,3.7,,
+Sep 2023,Midwest,In-Store,880v13,Boomer,415,0.07,4.0,,
+Sep 2023,Midwest,Online,Fresh Foam X,Gen Z,356,0.13,3.7,,
+Sep 2023,Midwest,Online,Fresh Foam X,Millennial,165,0.18,3.5,,
+Sep 2023,Midwest,Online,Fresh Foam X,Gen X,392,0.22,4.0,,
+Sep 2023,Midwest,Online,Fresh Foam X,Boomer,427,0.15,3.5,,
+Sep 2023,Midwest,Online,FuelCell Rebel,Gen Z,152,0.21,4.0,,
+Sep 2023,Midwest,Online,FuelCell Rebel,Millennial,180,0.16,2.5,,
+Sep 2023,Midwest,Online,FuelCell Rebel,Gen X,197,0.16,3.1,,
+Sep 2023,Midwest,Online,FuelCell Rebel,Boomer,327,0.19,3.3,,
+Sep 2023,Midwest,Online,880v13,Gen Z,222,0.18,3.7,,
+Sep 2023,Midwest,Online,880v13,Millennial,222,0.16,3.5,,
+Sep 2023,Midwest,Online,880v13,Gen X,382,0.17,3.7,,
+Sep 2023,Midwest,Online,880v13,Boomer,243,0.22,3.7,,
+Sep 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,202,0.16,4.7,580.0,Facebook
+Sep 2023,Midwest,Social Referral,Fresh Foam X,Millennial,267,0.24,4.4,395.0,TikTok
+Sep 2023,Midwest,Social Referral,Fresh Foam X,Gen X,372,0.16,4.2,374.0,Twitter
+Sep 2023,Midwest,Social Referral,Fresh Foam X,Boomer,196,0.16,4.9,617.0,TikTok
+Sep 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,270,0.21,4.2,503.0,Facebook
+Sep 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,182,0.12,5.0,601.0,Twitter
+Sep 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,382,0.18,4.5,498.0,TikTok
+Sep 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,410,0.24,4.0,560.0,TikTok
+Sep 2023,Midwest,Social Referral,880v13,Gen Z,306,0.28,4.8,661.0,TikTok
+Sep 2023,Midwest,Social Referral,880v13,Millennial,231,0.19,4.4,758.0,Facebook
+Sep 2023,Midwest,Social Referral,880v13,Gen X,259,0.13,4.6,206.0,TikTok
+Sep 2023,Midwest,Social Referral,880v13,Boomer,232,0.24,4.8,401.0,TikTok
+Sep 2023,West,In-Store,Fresh Foam X,Gen Z,366,0.09,3.6,,
+Sep 2023,West,In-Store,Fresh Foam X,Millennial,438,0.11,3.8,,
+Sep 2023,West,In-Store,Fresh Foam X,Gen X,319,0.05,4.0,,
+Sep 2023,West,In-Store,Fresh Foam X,Boomer,288,0.14,3.2,,
+Sep 2023,West,In-Store,FuelCell Rebel,Gen Z,234,0.1,3.9,,
+Sep 2023,West,In-Store,FuelCell Rebel,Millennial,321,0.1,4.7,,
+Sep 2023,West,In-Store,FuelCell Rebel,Gen X,391,0.14,3.6,,
+Sep 2023,West,In-Store,FuelCell Rebel,Boomer,347,0.12,4.2,,
+Sep 2023,West,In-Store,880v13,Gen Z,152,0.11,3.5,,
+Sep 2023,West,In-Store,880v13,Millennial,243,0.1,3.9,,
+Sep 2023,West,In-Store,880v13,Gen X,400,0.14,4.0,,
+Sep 2023,West,In-Store,880v13,Boomer,234,0.11,3.5,,
+Sep 2023,West,Online,Fresh Foam X,Gen Z,341,0.22,3.6,,
+Sep 2023,West,Online,Fresh Foam X,Millennial,153,0.19,3.7,,
+Sep 2023,West,Online,Fresh Foam X,Gen X,169,0.12,3.0,,
+Sep 2023,West,Online,Fresh Foam X,Boomer,193,0.19,2.8,,
+Sep 2023,West,Online,FuelCell Rebel,Gen Z,231,0.23,3.1,,
+Sep 2023,West,Online,FuelCell Rebel,Millennial,395,0.22,3.7,,
+Sep 2023,West,Online,FuelCell Rebel,Gen X,266,0.16,3.1,,
+Sep 2023,West,Online,FuelCell Rebel,Boomer,310,0.17,2.2,,
+Sep 2023,West,Online,880v13,Gen Z,363,0.18,3.7,,
+Sep 2023,West,Online,880v13,Millennial,410,0.18,4.0,,
+Sep 2023,West,Online,880v13,Gen X,393,0.18,2.9,,
+Sep 2023,West,Online,880v13,Boomer,375,0.15,2.0,,
+Sep 2023,West,Social Referral,Fresh Foam X,Gen Z,392,0.19,4.8,275.0,Instagram
+Sep 2023,West,Social Referral,Fresh Foam X,Millennial,340,0.25,4.1,272.0,Twitter
+Sep 2023,West,Social Referral,Fresh Foam X,Gen X,248,0.18,4.5,468.0,TikTok
+Sep 2023,West,Social Referral,Fresh Foam X,Boomer,162,0.23,3.6,474.0,Facebook
+Sep 2023,West,Social Referral,FuelCell Rebel,Gen Z,311,0.2,3.7,463.0,Instagram
+Sep 2023,West,Social Referral,FuelCell Rebel,Millennial,278,0.12,4.4,640.0,TikTok
+Sep 2023,West,Social Referral,FuelCell Rebel,Gen X,380,0.22,4.6,356.0,Instagram
+Sep 2023,West,Social Referral,FuelCell Rebel,Boomer,403,0.19,4.2,629.0,TikTok
+Sep 2023,West,Social Referral,880v13,Gen Z,178,0.22,3.5,781.0,Facebook
+Sep 2023,West,Social Referral,880v13,Millennial,164,0.24,4.6,644.0,Facebook
+Sep 2023,West,Social Referral,880v13,Gen X,277,0.14,4.5,525.0,TikTok
+Sep 2023,West,Social Referral,880v13,Boomer,185,0.3,4.3,690.0,Facebook
+Oct 2023,Northeast,In-Store,Fresh Foam X,Gen Z,151,0.09,3.8,,
+Oct 2023,Northeast,In-Store,Fresh Foam X,Millennial,444,0.06,4.6,,
+Oct 2023,Northeast,In-Store,Fresh Foam X,Gen X,440,0.07,3.6,,
+Oct 2023,Northeast,In-Store,Fresh Foam X,Boomer,434,0.09,4.6,,
+Oct 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,243,0.1,3.8,,
+Oct 2023,Northeast,In-Store,FuelCell Rebel,Millennial,155,0.11,3.6,,
+Oct 2023,Northeast,In-Store,FuelCell Rebel,Gen X,280,0.1,3.2,,
+Oct 2023,Northeast,In-Store,FuelCell Rebel,Boomer,423,0.05,3.2,,
+Oct 2023,Northeast,In-Store,880v13,Gen Z,448,0.12,3.9,,
+Oct 2023,Northeast,In-Store,880v13,Millennial,334,0.07,3.4,,
+Oct 2023,Northeast,In-Store,880v13,Gen X,385,0.14,3.7,,
+Oct 2023,Northeast,In-Store,880v13,Boomer,306,0.09,4.0,,
+Oct 2023,Northeast,Online,Fresh Foam X,Gen Z,341,0.12,3.3,,
+Oct 2023,Northeast,Online,Fresh Foam X,Millennial,250,0.18,4.4,,
+Oct 2023,Northeast,Online,Fresh Foam X,Gen X,447,0.16,3.3,,
+Oct 2023,Northeast,Online,Fresh Foam X,Boomer,304,0.19,4.4,,
+Oct 2023,Northeast,Online,FuelCell Rebel,Gen Z,227,0.22,3.7,,
+Oct 2023,Northeast,Online,FuelCell Rebel,Millennial,294,0.2,2.1,,
+Oct 2023,Northeast,Online,FuelCell Rebel,Gen X,448,0.16,3.6,,
+Oct 2023,Northeast,Online,FuelCell Rebel,Boomer,254,0.16,5.0,,
+Oct 2023,Northeast,Online,880v13,Gen Z,246,0.15,4.6,,
+Oct 2023,Northeast,Online,880v13,Millennial,398,0.19,3.8,,
+Oct 2023,Northeast,Online,880v13,Gen X,152,0.16,3.7,,
+Oct 2023,Northeast,Online,880v13,Boomer,189,0.17,4.1,,
+Oct 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,244,0.2,4.4,219.0,TikTok
+Oct 2023,Northeast,Social Referral,Fresh Foam X,Millennial,152,0.11,4.4,461.0,Instagram
+Oct 2023,Northeast,Social Referral,Fresh Foam X,Gen X,285,0.22,4.3,472.0,Instagram
+Oct 2023,Northeast,Social Referral,Fresh Foam X,Boomer,239,0.31,4.7,551.0,TikTok
+Oct 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,238,0.19,4.4,618.0,Instagram
+Oct 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,175,0.28,4.2,259.0,TikTok
+Oct 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,421,0.22,3.8,375.0,Facebook
+Oct 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,238,0.31,4.1,492.0,Twitter
+Oct 2023,Northeast,Social Referral,880v13,Gen Z,234,0.22,4.5,339.0,Facebook
+Oct 2023,Northeast,Social Referral,880v13,Millennial,253,0.22,4.5,572.0,Twitter
+Oct 2023,Northeast,Social Referral,880v13,Gen X,324,0.22,3.3,640.0,TikTok
+Oct 2023,Northeast,Social Referral,880v13,Boomer,161,0.25,3.7,323.0,Facebook
+Oct 2023,South,In-Store,Fresh Foam X,Gen Z,354,0.05,3.7,,
+Oct 2023,South,In-Store,Fresh Foam X,Millennial,174,0.09,3.4,,
+Oct 2023,South,In-Store,Fresh Foam X,Gen X,281,0.09,3.8,,
+Oct 2023,South,In-Store,Fresh Foam X,Boomer,442,0.05,3.5,,
+Oct 2023,South,In-Store,FuelCell Rebel,Gen Z,169,0.09,4.1,,
+Oct 2023,South,In-Store,FuelCell Rebel,Millennial,191,0.08,3.7,,
+Oct 2023,South,In-Store,FuelCell Rebel,Gen X,223,0.09,3.8,,
+Oct 2023,South,In-Store,FuelCell Rebel,Boomer,278,0.11,3.5,,
+Oct 2023,South,In-Store,880v13,Gen Z,377,0.09,4.1,,
+Oct 2023,South,In-Store,880v13,Millennial,345,0.07,4.5,,
+Oct 2023,South,In-Store,880v13,Gen X,259,0.11,3.9,,
+Oct 2023,South,In-Store,880v13,Boomer,440,0.1,4.2,,
+Oct 2023,South,Online,Fresh Foam X,Gen Z,215,0.17,4.3,,
+Oct 2023,South,Online,Fresh Foam X,Millennial,447,0.16,2.8,,
+Oct 2023,South,Online,Fresh Foam X,Gen X,152,0.13,3.2,,
+Oct 2023,South,Online,Fresh Foam X,Boomer,421,0.2,3.9,,
+Oct 2023,South,Online,FuelCell Rebel,Gen Z,448,0.16,5.0,,
+Oct 2023,South,Online,FuelCell Rebel,Millennial,271,0.16,3.8,,
+Oct 2023,South,Online,FuelCell Rebel,Gen X,392,0.12,3.5,,
+Oct 2023,South,Online,FuelCell Rebel,Boomer,369,0.18,3.9,,
+Oct 2023,South,Online,880v13,Gen Z,230,0.16,3.6,,
+Oct 2023,South,Online,880v13,Millennial,385,0.18,3.9,,
+Oct 2023,South,Online,880v13,Gen X,325,0.22,3.1,,
+Oct 2023,South,Online,880v13,Boomer,201,0.17,3.1,,
+Oct 2023,South,Social Referral,Fresh Foam X,Gen Z,163,0.12,5.0,407.0,Instagram
+Oct 2023,South,Social Referral,Fresh Foam X,Millennial,179,0.11,4.0,663.0,Facebook
+Oct 2023,South,Social Referral,Fresh Foam X,Gen X,167,0.18,4.1,325.0,Twitter
+Oct 2023,South,Social Referral,Fresh Foam X,Boomer,305,0.16,4.4,310.0,Instagram
+Oct 2023,South,Social Referral,FuelCell Rebel,Gen Z,384,0.25,3.5,320.0,Twitter
+Oct 2023,South,Social Referral,FuelCell Rebel,Millennial,178,0.15,4.4,526.0,Instagram
+Oct 2023,South,Social Referral,FuelCell Rebel,Gen X,259,0.24,4.2,259.0,Twitter
+Oct 2023,South,Social Referral,FuelCell Rebel,Boomer,273,0.16,4.7,385.0,TikTok
+Oct 2023,South,Social Referral,880v13,Gen Z,193,0.12,4.4,429.0,Instagram
+Oct 2023,South,Social Referral,880v13,Millennial,381,0.13,4.9,236.0,Twitter
+Oct 2023,South,Social Referral,880v13,Gen X,352,0.19,4.3,715.0,TikTok
+Oct 2023,South,Social Referral,880v13,Boomer,293,0.27,4.0,558.0,Twitter
+Oct 2023,Midwest,In-Store,Fresh Foam X,Gen Z,246,0.08,3.8,,
+Oct 2023,Midwest,In-Store,Fresh Foam X,Millennial,252,0.11,4.0,,
+Oct 2023,Midwest,In-Store,Fresh Foam X,Gen X,405,0.06,4.1,,
+Oct 2023,Midwest,In-Store,Fresh Foam X,Boomer,239,0.11,3.5,,
+Oct 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,437,0.06,3.9,,
+Oct 2023,Midwest,In-Store,FuelCell Rebel,Millennial,376,0.05,3.8,,
+Oct 2023,Midwest,In-Store,FuelCell Rebel,Gen X,211,0.1,3.4,,
+Oct 2023,Midwest,In-Store,FuelCell Rebel,Boomer,291,0.05,3.8,,
+Oct 2023,Midwest,In-Store,880v13,Gen Z,194,0.11,3.8,,
+Oct 2023,Midwest,In-Store,880v13,Millennial,368,0.1,3.5,,
+Oct 2023,Midwest,In-Store,880v13,Gen X,334,0.12,4.3,,
+Oct 2023,Midwest,In-Store,880v13,Boomer,264,0.14,3.6,,
+Oct 2023,Midwest,Online,Fresh Foam X,Gen Z,189,0.16,3.3,,
+Oct 2023,Midwest,Online,Fresh Foam X,Millennial,292,0.21,3.9,,
+Oct 2023,Midwest,Online,Fresh Foam X,Gen X,164,0.19,3.2,,
+Oct 2023,Midwest,Online,Fresh Foam X,Boomer,153,0.16,4.3,,
+Oct 2023,Midwest,Online,FuelCell Rebel,Gen Z,384,0.2,4.1,,
+Oct 2023,Midwest,Online,FuelCell Rebel,Millennial,341,0.21,3.7,,
+Oct 2023,Midwest,Online,FuelCell Rebel,Gen X,404,0.18,3.6,,
+Oct 2023,Midwest,Online,FuelCell Rebel,Boomer,175,0.21,2.8,,
+Oct 2023,Midwest,Online,880v13,Gen Z,406,0.17,3.3,,
+Oct 2023,Midwest,Online,880v13,Millennial,292,0.14,4.4,,
+Oct 2023,Midwest,Online,880v13,Gen X,264,0.18,3.9,,
+Oct 2023,Midwest,Online,880v13,Boomer,231,0.2,3.0,,
+Oct 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,243,0.11,3.8,294.0,Twitter
+Oct 2023,Midwest,Social Referral,Fresh Foam X,Millennial,306,0.26,3.2,629.0,Twitter
+Oct 2023,Midwest,Social Referral,Fresh Foam X,Gen X,290,0.22,4.4,628.0,Facebook
+Oct 2023,Midwest,Social Referral,Fresh Foam X,Boomer,343,0.28,3.9,259.0,Twitter
+Oct 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,176,0.19,4.2,411.0,TikTok
+Oct 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,340,0.3,3.8,556.0,TikTok
+Oct 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,204,0.25,4.6,300.0,TikTok
+Oct 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,409,0.13,4.1,618.0,TikTok
+Oct 2023,Midwest,Social Referral,880v13,Gen Z,283,0.22,3.3,796.0,TikTok
+Oct 2023,Midwest,Social Referral,880v13,Millennial,261,0.13,3.9,546.0,Instagram
+Oct 2023,Midwest,Social Referral,880v13,Gen X,386,0.14,4.3,344.0,Facebook
+Oct 2023,Midwest,Social Referral,880v13,Boomer,261,0.13,4.6,378.0,Facebook
+Oct 2023,West,In-Store,Fresh Foam X,Gen Z,417,0.07,3.1,,
+Oct 2023,West,In-Store,Fresh Foam X,Millennial,190,0.16,4.1,,
+Oct 2023,West,In-Store,Fresh Foam X,Gen X,198,0.08,4.1,,
+Oct 2023,West,In-Store,Fresh Foam X,Boomer,219,0.11,3.9,,
+Oct 2023,West,In-Store,FuelCell Rebel,Gen Z,225,0.05,4.4,,
+Oct 2023,West,In-Store,FuelCell Rebel,Millennial,237,0.09,3.6,,
+Oct 2023,West,In-Store,FuelCell Rebel,Gen X,401,0.09,3.6,,
+Oct 2023,West,In-Store,FuelCell Rebel,Boomer,258,0.09,3.6,,
+Oct 2023,West,In-Store,880v13,Gen Z,293,0.08,4.4,,
+Oct 2023,West,In-Store,880v13,Millennial,372,0.08,4.0,,
+Oct 2023,West,In-Store,880v13,Gen X,292,0.14,4.5,,
+Oct 2023,West,In-Store,880v13,Boomer,239,0.13,3.8,,
+Oct 2023,West,Online,Fresh Foam X,Gen Z,385,0.16,3.5,,
+Oct 2023,West,Online,Fresh Foam X,Millennial,432,0.12,3.5,,
+Oct 2023,West,Online,Fresh Foam X,Gen X,187,0.14,4.1,,
+Oct 2023,West,Online,Fresh Foam X,Boomer,181,0.24,3.2,,
+Oct 2023,West,Online,FuelCell Rebel,Gen Z,222,0.18,2.7,,
+Oct 2023,West,Online,FuelCell Rebel,Millennial,175,0.17,2.6,,
+Oct 2023,West,Online,FuelCell Rebel,Gen X,359,0.22,3.3,,
+Oct 2023,West,Online,FuelCell Rebel,Boomer,314,0.18,4.0,,
+Oct 2023,West,Online,880v13,Gen Z,189,0.2,3.6,,
+Oct 2023,West,Online,880v13,Millennial,194,0.17,3.7,,
+Oct 2023,West,Online,880v13,Gen X,207,0.15,3.6,,
+Oct 2023,West,Online,880v13,Boomer,412,0.22,3.1,,
+Oct 2023,West,Social Referral,Fresh Foam X,Gen Z,355,0.15,3.8,266.0,Twitter
+Oct 2023,West,Social Referral,Fresh Foam X,Millennial,163,0.21,4.0,367.0,Instagram
+Oct 2023,West,Social Referral,Fresh Foam X,Gen X,321,0.19,4.8,707.0,Facebook
+Oct 2023,West,Social Referral,Fresh Foam X,Boomer,408,0.22,4.1,635.0,TikTok
+Oct 2023,West,Social Referral,FuelCell Rebel,Gen Z,239,0.25,4.1,489.0,Facebook
+Oct 2023,West,Social Referral,FuelCell Rebel,Millennial,219,0.17,4.5,726.0,Facebook
+Oct 2023,West,Social Referral,FuelCell Rebel,Gen X,203,0.15,4.1,716.0,Instagram
+Oct 2023,West,Social Referral,FuelCell Rebel,Boomer,158,0.2,3.9,231.0,TikTok
+Oct 2023,West,Social Referral,880v13,Gen Z,188,0.24,5.0,783.0,Instagram
+Oct 2023,West,Social Referral,880v13,Millennial,288,0.22,4.7,330.0,Twitter
+Oct 2023,West,Social Referral,880v13,Gen X,243,0.24,4.7,391.0,Facebook
+Oct 2023,West,Social Referral,880v13,Boomer,242,0.17,4.8,780.0,Facebook
+Nov 2023,Northeast,In-Store,Fresh Foam X,Gen Z,200,0.13,4.3,,
+Nov 2023,Northeast,In-Store,Fresh Foam X,Millennial,422,0.1,3.7,,
+Nov 2023,Northeast,In-Store,Fresh Foam X,Gen X,383,0.09,3.6,,
+Nov 2023,Northeast,In-Store,Fresh Foam X,Boomer,157,0.06,3.1,,
+Nov 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,327,0.1,4.4,,
+Nov 2023,Northeast,In-Store,FuelCell Rebel,Millennial,203,0.12,4.7,,
+Nov 2023,Northeast,In-Store,FuelCell Rebel,Gen X,334,0.05,4.3,,
+Nov 2023,Northeast,In-Store,FuelCell Rebel,Boomer,152,0.09,3.8,,
+Nov 2023,Northeast,In-Store,880v13,Gen Z,194,0.13,4.3,,
+Nov 2023,Northeast,In-Store,880v13,Millennial,354,0.14,3.7,,
+Nov 2023,Northeast,In-Store,880v13,Gen X,261,0.15,4.3,,
+Nov 2023,Northeast,In-Store,880v13,Boomer,375,0.11,3.7,,
+Nov 2023,Northeast,Online,Fresh Foam X,Gen Z,353,0.15,3.7,,
+Nov 2023,Northeast,Online,Fresh Foam X,Millennial,251,0.09,3.1,,
+Nov 2023,Northeast,Online,Fresh Foam X,Gen X,371,0.22,3.5,,
+Nov 2023,Northeast,Online,Fresh Foam X,Boomer,301,0.22,3.2,,
+Nov 2023,Northeast,Online,FuelCell Rebel,Gen Z,285,0.19,2.9,,
+Nov 2023,Northeast,Online,FuelCell Rebel,Millennial,419,0.17,4.5,,
+Nov 2023,Northeast,Online,FuelCell Rebel,Gen X,386,0.19,3.5,,
+Nov 2023,Northeast,Online,FuelCell Rebel,Boomer,317,0.23,3.9,,
+Nov 2023,Northeast,Online,880v13,Gen Z,296,0.1,4.3,,
+Nov 2023,Northeast,Online,880v13,Millennial,310,0.2,4.4,,
+Nov 2023,Northeast,Online,880v13,Gen X,432,0.12,3.5,,
+Nov 2023,Northeast,Online,880v13,Boomer,309,0.19,3.5,,
+Nov 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,190,0.12,4.0,748.0,Facebook
+Nov 2023,Northeast,Social Referral,Fresh Foam X,Millennial,304,0.07,4.8,643.0,Facebook
+Nov 2023,Northeast,Social Referral,Fresh Foam X,Gen X,409,0.24,4.6,621.0,Instagram
+Nov 2023,Northeast,Social Referral,Fresh Foam X,Boomer,283,0.2,4.1,451.0,Instagram
+Nov 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,365,0.29,4.6,504.0,Instagram
+Nov 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,181,0.25,3.7,529.0,Instagram
+Nov 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,350,0.3,4.1,321.0,TikTok
+Nov 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,309,0.16,3.9,399.0,TikTok
+Nov 2023,Northeast,Social Referral,880v13,Gen Z,393,0.29,3.8,456.0,Instagram
+Nov 2023,Northeast,Social Referral,880v13,Millennial,417,0.14,4.7,657.0,Facebook
+Nov 2023,Northeast,Social Referral,880v13,Gen X,268,0.14,4.4,376.0,TikTok
+Nov 2023,Northeast,Social Referral,880v13,Boomer,284,0.21,4.0,319.0,Instagram
+Nov 2023,South,In-Store,Fresh Foam X,Gen Z,225,0.07,3.8,,
+Nov 2023,South,In-Store,Fresh Foam X,Millennial,200,0.07,3.4,,
+Nov 2023,South,In-Store,Fresh Foam X,Gen X,234,0.11,3.9,,
+Nov 2023,South,In-Store,Fresh Foam X,Boomer,197,0.06,3.8,,
+Nov 2023,South,In-Store,FuelCell Rebel,Gen Z,393,0.11,3.9,,
+Nov 2023,South,In-Store,FuelCell Rebel,Millennial,305,0.1,3.9,,
+Nov 2023,South,In-Store,FuelCell Rebel,Gen X,199,0.13,3.1,,
+Nov 2023,South,In-Store,FuelCell Rebel,Boomer,260,0.07,3.7,,
+Nov 2023,South,In-Store,880v13,Gen Z,316,0.1,4.1,,
+Nov 2023,South,In-Store,880v13,Millennial,211,0.14,3.6,,
+Nov 2023,South,In-Store,880v13,Gen X,217,0.1,3.6,,
+Nov 2023,South,In-Store,880v13,Boomer,411,0.06,3.2,,
+Nov 2023,South,Online,Fresh Foam X,Gen Z,447,0.17,3.0,,
+Nov 2023,South,Online,Fresh Foam X,Millennial,297,0.13,3.7,,
+Nov 2023,South,Online,Fresh Foam X,Gen X,251,0.11,3.5,,
+Nov 2023,South,Online,Fresh Foam X,Boomer,283,0.17,3.3,,
+Nov 2023,South,Online,FuelCell Rebel,Gen Z,202,0.18,4.4,,
+Nov 2023,South,Online,FuelCell Rebel,Millennial,377,0.17,3.3,,
+Nov 2023,South,Online,FuelCell Rebel,Gen X,276,0.19,3.6,,
+Nov 2023,South,Online,FuelCell Rebel,Boomer,267,0.2,4.1,,
+Nov 2023,South,Online,880v13,Gen Z,357,0.14,3.8,,
+Nov 2023,South,Online,880v13,Millennial,311,0.23,2.7,,
+Nov 2023,South,Online,880v13,Gen X,220,0.19,3.3,,
+Nov 2023,South,Online,880v13,Boomer,372,0.12,4.7,,
+Nov 2023,South,Social Referral,Fresh Foam X,Gen Z,242,0.2,3.8,392.0,Facebook
+Nov 2023,South,Social Referral,Fresh Foam X,Millennial,219,0.19,4.3,491.0,Instagram
+Nov 2023,South,Social Referral,Fresh Foam X,Gen X,208,0.28,4.2,511.0,TikTok
+Nov 2023,South,Social Referral,Fresh Foam X,Boomer,447,0.22,3.7,493.0,Twitter
+Nov 2023,South,Social Referral,FuelCell Rebel,Gen Z,205,0.21,5.0,733.0,Instagram
+Nov 2023,South,Social Referral,FuelCell Rebel,Millennial,437,0.15,3.8,250.0,Instagram
+Nov 2023,South,Social Referral,FuelCell Rebel,Gen X,202,0.2,4.1,704.0,TikTok
+Nov 2023,South,Social Referral,FuelCell Rebel,Boomer,300,0.16,4.3,568.0,Facebook
+Nov 2023,South,Social Referral,880v13,Gen Z,408,0.2,4.0,581.0,Twitter
+Nov 2023,South,Social Referral,880v13,Millennial,179,0.23,4.6,573.0,Twitter
+Nov 2023,South,Social Referral,880v13,Gen X,195,0.16,5.0,424.0,Facebook
+Nov 2023,South,Social Referral,880v13,Boomer,366,0.2,4.6,773.0,Facebook
+Nov 2023,Midwest,In-Store,Fresh Foam X,Gen Z,307,0.15,4.8,,
+Nov 2023,Midwest,In-Store,Fresh Foam X,Millennial,384,0.12,3.0,,
+Nov 2023,Midwest,In-Store,Fresh Foam X,Gen X,396,0.12,3.3,,
+Nov 2023,Midwest,In-Store,Fresh Foam X,Boomer,399,0.05,2.8,,
+Nov 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,206,0.05,3.8,,
+Nov 2023,Midwest,In-Store,FuelCell Rebel,Millennial,216,0.14,3.6,,
+Nov 2023,Midwest,In-Store,FuelCell Rebel,Gen X,217,0.1,4.1,,
+Nov 2023,Midwest,In-Store,FuelCell Rebel,Boomer,272,0.16,3.9,,
+Nov 2023,Midwest,In-Store,880v13,Gen Z,255,0.07,3.8,,
+Nov 2023,Midwest,In-Store,880v13,Millennial,348,0.11,4.4,,
+Nov 2023,Midwest,In-Store,880v13,Gen X,298,0.05,3.9,,
+Nov 2023,Midwest,In-Store,880v13,Boomer,377,0.1,4.1,,
+Nov 2023,Midwest,Online,Fresh Foam X,Gen Z,365,0.18,3.9,,
+Nov 2023,Midwest,Online,Fresh Foam X,Millennial,348,0.16,4.3,,
+Nov 2023,Midwest,Online,Fresh Foam X,Gen X,242,0.19,3.4,,
+Nov 2023,Midwest,Online,Fresh Foam X,Boomer,159,0.13,4.4,,
+Nov 2023,Midwest,Online,FuelCell Rebel,Gen Z,447,0.19,3.4,,
+Nov 2023,Midwest,Online,FuelCell Rebel,Millennial,209,0.17,3.2,,
+Nov 2023,Midwest,Online,FuelCell Rebel,Gen X,357,0.16,3.7,,
+Nov 2023,Midwest,Online,FuelCell Rebel,Boomer,439,0.22,2.9,,
+Nov 2023,Midwest,Online,880v13,Gen Z,373,0.22,2.8,,
+Nov 2023,Midwest,Online,880v13,Millennial,401,0.17,2.6,,
+Nov 2023,Midwest,Online,880v13,Gen X,406,0.22,3.6,,
+Nov 2023,Midwest,Online,880v13,Boomer,300,0.21,2.9,,
+Nov 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,390,0.19,4.1,320.0,Instagram
+Nov 2023,Midwest,Social Referral,Fresh Foam X,Millennial,365,0.23,4.0,422.0,Twitter
+Nov 2023,Midwest,Social Referral,Fresh Foam X,Gen X,424,0.25,4.7,433.0,Twitter
+Nov 2023,Midwest,Social Referral,Fresh Foam X,Boomer,426,0.18,3.9,388.0,Twitter
+Nov 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,316,0.21,4.1,794.0,TikTok
+Nov 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,447,0.13,4.3,289.0,TikTok
+Nov 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,197,0.26,3.3,348.0,Twitter
+Nov 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,300,0.2,4.0,521.0,Instagram
+Nov 2023,Midwest,Social Referral,880v13,Gen Z,199,0.26,4.5,426.0,TikTok
+Nov 2023,Midwest,Social Referral,880v13,Millennial,291,0.09,4.9,533.0,TikTok
+Nov 2023,Midwest,Social Referral,880v13,Gen X,349,0.18,4.2,400.0,Facebook
+Nov 2023,Midwest,Social Referral,880v13,Boomer,358,0.19,3.6,229.0,TikTok
+Nov 2023,West,In-Store,Fresh Foam X,Gen Z,302,0.11,3.4,,
+Nov 2023,West,In-Store,Fresh Foam X,Millennial,230,0.1,4.7,,
+Nov 2023,West,In-Store,Fresh Foam X,Gen X,448,0.15,4.0,,
+Nov 2023,West,In-Store,Fresh Foam X,Boomer,223,0.12,4.0,,
+Nov 2023,West,In-Store,FuelCell Rebel,Gen Z,321,0.11,4.7,,
+Nov 2023,West,In-Store,FuelCell Rebel,Millennial,315,0.12,4.0,,
+Nov 2023,West,In-Store,FuelCell Rebel,Gen X,447,0.1,4.5,,
+Nov 2023,West,In-Store,FuelCell Rebel,Boomer,421,0.13,3.6,,
+Nov 2023,West,In-Store,880v13,Gen Z,345,0.1,3.8,,
+Nov 2023,West,In-Store,880v13,Millennial,184,0.11,3.3,,
+Nov 2023,West,In-Store,880v13,Gen X,168,0.12,3.4,,
+Nov 2023,West,In-Store,880v13,Boomer,415,0.07,3.6,,
+Nov 2023,West,Online,Fresh Foam X,Gen Z,411,0.17,4.3,,
+Nov 2023,West,Online,Fresh Foam X,Millennial,200,0.14,3.3,,
+Nov 2023,West,Online,Fresh Foam X,Gen X,402,0.15,5.0,,
+Nov 2023,West,Online,Fresh Foam X,Boomer,446,0.2,3.7,,
+Nov 2023,West,Online,FuelCell Rebel,Gen Z,351,0.19,3.9,,
+Nov 2023,West,Online,FuelCell Rebel,Millennial,291,0.11,3.6,,
+Nov 2023,West,Online,FuelCell Rebel,Gen X,255,0.16,4.1,,
+Nov 2023,West,Online,FuelCell Rebel,Boomer,227,0.21,3.5,,
+Nov 2023,West,Online,880v13,Gen Z,446,0.2,2.9,,
+Nov 2023,West,Online,880v13,Millennial,436,0.2,4.1,,
+Nov 2023,West,Online,880v13,Gen X,202,0.17,2.5,,
+Nov 2023,West,Online,880v13,Boomer,370,0.18,2.5,,
+Nov 2023,West,Social Referral,Fresh Foam X,Gen Z,293,0.22,3.8,770.0,TikTok
+Nov 2023,West,Social Referral,Fresh Foam X,Millennial,289,0.21,3.0,386.0,Facebook
+Nov 2023,West,Social Referral,Fresh Foam X,Gen X,407,0.17,5.0,246.0,Twitter
+Nov 2023,West,Social Referral,Fresh Foam X,Boomer,208,0.3,4.3,321.0,Instagram
+Nov 2023,West,Social Referral,FuelCell Rebel,Gen Z,414,0.18,3.2,303.0,TikTok
+Nov 2023,West,Social Referral,FuelCell Rebel,Millennial,153,0.23,4.8,686.0,Instagram
+Nov 2023,West,Social Referral,FuelCell Rebel,Gen X,305,0.11,3.9,441.0,Instagram
+Nov 2023,West,Social Referral,FuelCell Rebel,Boomer,185,0.1,4.2,583.0,Instagram
+Nov 2023,West,Social Referral,880v13,Gen Z,347,0.2,5.0,549.0,TikTok
+Nov 2023,West,Social Referral,880v13,Millennial,290,0.16,4.7,415.0,Facebook
+Nov 2023,West,Social Referral,880v13,Gen X,194,0.24,4.1,247.0,Twitter
+Nov 2023,West,Social Referral,880v13,Boomer,322,0.18,4.5,290.0,Facebook
+Dec 2023,Northeast,In-Store,Fresh Foam X,Gen Z,374,0.14,3.8,,
+Dec 2023,Northeast,In-Store,Fresh Foam X,Millennial,395,0.12,4.3,,
+Dec 2023,Northeast,In-Store,Fresh Foam X,Gen X,406,0.09,4.1,,
+Dec 2023,Northeast,In-Store,Fresh Foam X,Boomer,152,0.13,3.3,,
+Dec 2023,Northeast,In-Store,FuelCell Rebel,Gen Z,184,0.1,3.8,,
+Dec 2023,Northeast,In-Store,FuelCell Rebel,Millennial,309,0.11,4.0,,
+Dec 2023,Northeast,In-Store,FuelCell Rebel,Gen X,174,0.08,4.0,,
+Dec 2023,Northeast,In-Store,FuelCell Rebel,Boomer,338,0.11,4.4,,
+Dec 2023,Northeast,In-Store,880v13,Gen Z,178,0.12,3.7,,
+Dec 2023,Northeast,In-Store,880v13,Millennial,244,0.08,4.0,,
+Dec 2023,Northeast,In-Store,880v13,Gen X,438,0.1,3.4,,
+Dec 2023,Northeast,In-Store,880v13,Boomer,428,0.06,4.3,,
+Dec 2023,Northeast,Online,Fresh Foam X,Gen Z,400,0.23,3.7,,
+Dec 2023,Northeast,Online,Fresh Foam X,Millennial,172,0.15,4.1,,
+Dec 2023,Northeast,Online,Fresh Foam X,Gen X,335,0.16,3.2,,
+Dec 2023,Northeast,Online,Fresh Foam X,Boomer,288,0.16,3.1,,
+Dec 2023,Northeast,Online,FuelCell Rebel,Gen Z,241,0.21,4.8,,
+Dec 2023,Northeast,Online,FuelCell Rebel,Millennial,315,0.2,4.1,,
+Dec 2023,Northeast,Online,FuelCell Rebel,Gen X,299,0.11,2.5,,
+Dec 2023,Northeast,Online,FuelCell Rebel,Boomer,230,0.19,3.6,,
+Dec 2023,Northeast,Online,880v13,Gen Z,435,0.24,3.5,,
+Dec 2023,Northeast,Online,880v13,Millennial,185,0.22,4.4,,
+Dec 2023,Northeast,Online,880v13,Gen X,349,0.18,2.1,,
+Dec 2023,Northeast,Online,880v13,Boomer,425,0.18,2.7,,
+Dec 2023,Northeast,Social Referral,Fresh Foam X,Gen Z,289,0.27,4.0,271.0,Twitter
+Dec 2023,Northeast,Social Referral,Fresh Foam X,Millennial,372,0.18,4.4,695.0,Instagram
+Dec 2023,Northeast,Social Referral,Fresh Foam X,Gen X,248,0.17,4.8,593.0,TikTok
+Dec 2023,Northeast,Social Referral,Fresh Foam X,Boomer,241,0.24,4.0,426.0,Instagram
+Dec 2023,Northeast,Social Referral,FuelCell Rebel,Gen Z,264,0.21,3.1,243.0,TikTok
+Dec 2023,Northeast,Social Referral,FuelCell Rebel,Millennial,262,0.29,3.8,514.0,Facebook
+Dec 2023,Northeast,Social Referral,FuelCell Rebel,Gen X,363,0.21,3.7,618.0,Instagram
+Dec 2023,Northeast,Social Referral,FuelCell Rebel,Boomer,378,0.15,5.0,265.0,TikTok
+Dec 2023,Northeast,Social Referral,880v13,Gen Z,158,0.18,4.3,507.0,Facebook
+Dec 2023,Northeast,Social Referral,880v13,Millennial,289,0.26,3.9,786.0,Facebook
+Dec 2023,Northeast,Social Referral,880v13,Gen X,153,0.16,4.3,769.0,TikTok
+Dec 2023,Northeast,Social Referral,880v13,Boomer,202,0.15,4.9,522.0,Facebook
+Dec 2023,South,In-Store,Fresh Foam X,Gen Z,394,0.11,4.4,,
+Dec 2023,South,In-Store,Fresh Foam X,Millennial,308,0.09,4.7,,
+Dec 2023,South,In-Store,Fresh Foam X,Gen X,348,0.08,4.0,,
+Dec 2023,South,In-Store,Fresh Foam X,Boomer,273,0.06,3.5,,
+Dec 2023,South,In-Store,FuelCell Rebel,Gen Z,153,0.13,3.5,,
+Dec 2023,South,In-Store,FuelCell Rebel,Millennial,271,0.12,3.7,,
+Dec 2023,South,In-Store,FuelCell Rebel,Gen X,430,0.16,4.2,,
+Dec 2023,South,In-Store,FuelCell Rebel,Boomer,174,0.08,4.0,,
+Dec 2023,South,In-Store,880v13,Gen Z,223,0.17,4.7,,
+Dec 2023,South,In-Store,880v13,Millennial,226,0.07,3.3,,
+Dec 2023,South,In-Store,880v13,Gen X,421,0.08,4.4,,
+Dec 2023,South,In-Store,880v13,Boomer,180,0.05,3.4,,
+Dec 2023,South,Online,Fresh Foam X,Gen Z,282,0.16,3.9,,
+Dec 2023,South,Online,Fresh Foam X,Millennial,333,0.14,2.3,,
+Dec 2023,South,Online,Fresh Foam X,Gen X,304,0.11,3.7,,
+Dec 2023,South,Online,Fresh Foam X,Boomer,165,0.18,4.0,,
+Dec 2023,South,Online,FuelCell Rebel,Gen Z,415,0.17,2.3,,
+Dec 2023,South,Online,FuelCell Rebel,Millennial,221,0.17,4.0,,
+Dec 2023,South,Online,FuelCell Rebel,Gen X,178,0.18,3.7,,
+Dec 2023,South,Online,FuelCell Rebel,Boomer,443,0.24,3.8,,
+Dec 2023,South,Online,880v13,Gen Z,313,0.11,2.9,,
+Dec 2023,South,Online,880v13,Millennial,284,0.16,2.8,,
+Dec 2023,South,Online,880v13,Gen X,268,0.18,3.5,,
+Dec 2023,South,Online,880v13,Boomer,246,0.25,3.8,,
+Dec 2023,South,Social Referral,Fresh Foam X,Gen Z,216,0.28,3.8,200.0,Instagram
+Dec 2023,South,Social Referral,Fresh Foam X,Millennial,313,0.3,4.4,664.0,Facebook
+Dec 2023,South,Social Referral,Fresh Foam X,Gen X,405,0.17,4.4,667.0,TikTok
+Dec 2023,South,Social Referral,Fresh Foam X,Boomer,226,0.18,3.9,376.0,TikTok
+Dec 2023,South,Social Referral,FuelCell Rebel,Gen Z,278,0.21,4.1,386.0,Facebook
+Dec 2023,South,Social Referral,FuelCell Rebel,Millennial,335,0.27,4.2,580.0,Instagram
+Dec 2023,South,Social Referral,FuelCell Rebel,Gen X,417,0.19,5.0,593.0,TikTok
+Dec 2023,South,Social Referral,FuelCell Rebel,Boomer,163,0.14,4.6,685.0,Instagram
+Dec 2023,South,Social Referral,880v13,Gen Z,154,0.21,4.4,342.0,Twitter
+Dec 2023,South,Social Referral,880v13,Millennial,404,0.24,4.5,637.0,Instagram
+Dec 2023,South,Social Referral,880v13,Gen X,170,0.16,3.2,438.0,TikTok
+Dec 2023,South,Social Referral,880v13,Boomer,155,0.26,4.0,644.0,Facebook
+Dec 2023,Midwest,In-Store,Fresh Foam X,Gen Z,339,0.07,4.1,,
+Dec 2023,Midwest,In-Store,Fresh Foam X,Millennial,412,0.11,4.3,,
+Dec 2023,Midwest,In-Store,Fresh Foam X,Gen X,371,0.05,4.3,,
+Dec 2023,Midwest,In-Store,Fresh Foam X,Boomer,330,0.08,3.9,,
+Dec 2023,Midwest,In-Store,FuelCell Rebel,Gen Z,343,0.08,4.3,,
+Dec 2023,Midwest,In-Store,FuelCell Rebel,Millennial,374,0.08,3.6,,
+Dec 2023,Midwest,In-Store,FuelCell Rebel,Gen X,229,0.06,3.5,,
+Dec 2023,Midwest,In-Store,FuelCell Rebel,Boomer,195,0.08,4.5,,
+Dec 2023,Midwest,In-Store,880v13,Gen Z,178,0.06,4.1,,
+Dec 2023,Midwest,In-Store,880v13,Millennial,261,0.1,3.6,,
+Dec 2023,Midwest,In-Store,880v13,Gen X,189,0.05,4.1,,
+Dec 2023,Midwest,In-Store,880v13,Boomer,312,0.11,4.2,,
+Dec 2023,Midwest,Online,Fresh Foam X,Gen Z,250,0.2,3.8,,
+Dec 2023,Midwest,Online,Fresh Foam X,Millennial,438,0.24,5.0,,
+Dec 2023,Midwest,Online,Fresh Foam X,Gen X,217,0.16,3.8,,
+Dec 2023,Midwest,Online,Fresh Foam X,Boomer,396,0.18,4.4,,
+Dec 2023,Midwest,Online,FuelCell Rebel,Gen Z,414,0.16,2.8,,
+Dec 2023,Midwest,Online,FuelCell Rebel,Millennial,418,0.19,3.0,,
+Dec 2023,Midwest,Online,FuelCell Rebel,Gen X,240,0.22,3.0,,
+Dec 2023,Midwest,Online,FuelCell Rebel,Boomer,416,0.2,3.7,,
+Dec 2023,Midwest,Online,880v13,Gen Z,270,0.2,3.6,,
+Dec 2023,Midwest,Online,880v13,Millennial,175,0.17,4.3,,
+Dec 2023,Midwest,Online,880v13,Gen X,386,0.19,3.4,,
+Dec 2023,Midwest,Online,880v13,Boomer,263,0.17,4.1,,
+Dec 2023,Midwest,Social Referral,Fresh Foam X,Gen Z,394,0.25,3.7,600.0,Instagram
+Dec 2023,Midwest,Social Referral,Fresh Foam X,Millennial,354,0.23,4.3,318.0,Facebook
+Dec 2023,Midwest,Social Referral,Fresh Foam X,Gen X,408,0.19,4.2,473.0,TikTok
+Dec 2023,Midwest,Social Referral,Fresh Foam X,Boomer,349,0.1,4.3,576.0,Instagram
+Dec 2023,Midwest,Social Referral,FuelCell Rebel,Gen Z,221,0.18,4.5,789.0,Facebook
+Dec 2023,Midwest,Social Referral,FuelCell Rebel,Millennial,407,0.18,4.6,324.0,Twitter
+Dec 2023,Midwest,Social Referral,FuelCell Rebel,Gen X,347,0.18,4.2,711.0,Instagram
+Dec 2023,Midwest,Social Referral,FuelCell Rebel,Boomer,259,0.21,4.2,769.0,Instagram
+Dec 2023,Midwest,Social Referral,880v13,Gen Z,329,0.24,4.5,398.0,Twitter
+Dec 2023,Midwest,Social Referral,880v13,Millennial,399,0.23,3.5,360.0,Instagram
+Dec 2023,Midwest,Social Referral,880v13,Gen X,404,0.22,4.1,664.0,TikTok
+Dec 2023,Midwest,Social Referral,880v13,Boomer,352,0.24,3.8,442.0,TikTok
+Dec 2023,West,In-Store,Fresh Foam X,Gen Z,379,0.09,3.5,,
+Dec 2023,West,In-Store,Fresh Foam X,Millennial,192,0.07,4.7,,
+Dec 2023,West,In-Store,Fresh Foam X,Gen X,408,0.1,3.5,,
+Dec 2023,West,In-Store,Fresh Foam X,Boomer,419,0.12,3.5,,
+Dec 2023,West,In-Store,FuelCell Rebel,Gen Z,256,0.1,3.9,,
+Dec 2023,West,In-Store,FuelCell Rebel,Millennial,351,0.09,4.0,,
+Dec 2023,West,In-Store,FuelCell Rebel,Gen X,372,0.1,4.6,,
+Dec 2023,West,In-Store,FuelCell Rebel,Boomer,403,0.09,4.7,,
+Dec 2023,West,In-Store,880v13,Gen Z,336,0.05,3.3,,
+Dec 2023,West,In-Store,880v13,Millennial,230,0.11,3.2,,
+Dec 2023,West,In-Store,880v13,Gen X,223,0.15,2.9,,
+Dec 2023,West,In-Store,880v13,Boomer,152,0.06,4.2,,
+Dec 2023,West,Online,Fresh Foam X,Gen Z,261,0.24,4.0,,
+Dec 2023,West,Online,Fresh Foam X,Millennial,389,0.15,3.9,,
+Dec 2023,West,Online,Fresh Foam X,Gen X,429,0.18,3.8,,
+Dec 2023,West,Online,Fresh Foam X,Boomer,324,0.18,2.9,,
+Dec 2023,West,Online,FuelCell Rebel,Gen Z,261,0.18,3.6,,
+Dec 2023,West,Online,FuelCell Rebel,Millennial,350,0.13,3.1,,
+Dec 2023,West,Online,FuelCell Rebel,Gen X,381,0.15,3.3,,
+Dec 2023,West,Online,FuelCell Rebel,Boomer,151,0.22,3.7,,
+Dec 2023,West,Online,880v13,Gen Z,151,0.24,3.4,,
+Dec 2023,West,Online,880v13,Millennial,220,0.15,4.3,,
+Dec 2023,West,Online,880v13,Gen X,294,0.09,2.8,,
+Dec 2023,West,Online,880v13,Boomer,365,0.17,2.3,,
+Dec 2023,West,Social Referral,Fresh Foam X,Gen Z,424,0.21,4.6,636.0,TikTok
+Dec 2023,West,Social Referral,Fresh Foam X,Millennial,166,0.16,4.1,373.0,Instagram
+Dec 2023,West,Social Referral,Fresh Foam X,Gen X,331,0.28,3.6,654.0,Twitter
+Dec 2023,West,Social Referral,Fresh Foam X,Boomer,406,0.13,4.2,468.0,Instagram
+Dec 2023,West,Social Referral,FuelCell Rebel,Gen Z,306,0.15,3.7,697.0,TikTok
+Dec 2023,West,Social Referral,FuelCell Rebel,Millennial,174,0.16,4.7,242.0,Instagram
+Dec 2023,West,Social Referral,FuelCell Rebel,Gen X,250,0.24,4.8,660.0,Facebook
+Dec 2023,West,Social Referral,FuelCell Rebel,Boomer,437,0.25,4.4,617.0,TikTok
+Dec 2023,West,Social Referral,880v13,Gen Z,164,0.2,4.0,488.0,Twitter
+Dec 2023,West,Social Referral,880v13,Millennial,433,0.15,3.3,595.0,Twitter
+Dec 2023,West,Social Referral,880v13,Gen X,267,0.23,5.0,632.0,Instagram
+Dec 2023,West,Social Referral,880v13,Boomer,241,0.23,3.3,608.0,Instagram
